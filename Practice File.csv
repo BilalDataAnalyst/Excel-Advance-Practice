@@ -1,501 +1,501 @@
-Order ID,Category,Sub-Category,PaymentMode,City,Category2,City3,Amount,Profit,Quantity
-B-25681,Electronics,Electronic Games,COD,Mathura,Electronics,Mathura,1096,658,7
-B-26055,Furniture,Chairs,EMI,Delhi,Furniture,Delhi,5729,64,14
-B-25955,Furniture,Bookcases,EMI,Mathura,Furniture,Mathura,2927,146,8
-B-26093,Electronics,Printers,Credit Card,Mumbai,Electronics,Mumbai,2847,712,8
-B-25602,Electronics,Phones,Credit Card,Indore,Electronics,Indore,2617,1151,4
-B-25881,Clothing,Trousers,Credit Card,Prayagraj,Clothing,Prayagraj,2244,247,4
-B-25696,Clothing,Saree,COD,Pune,Clothing,Pune,275,-275,4
-B-25687,Clothing,Saree,UPI,Pune,Clothing,Pune,387,-213,5
-B-25643,Clothing,Hankerchief,UPI,Hyderabad,Clothing,Hyderabad,50,-44,2
-B-25851,Clothing,Kurti,COD,Pune,Clothing,Pune,135,-54,5
-B-25703,Clothing,Hankerchief,COD,Mumbai,Clothing,Mumbai,231,-190,9
-B-25887,Electronics,Printers,EMI,Surat,Electronics,Surat,2125,-234,6
-B-25923,Electronics,Phones,Credit Card,Mumbai,Electronics,Mumbai,3873,-891,6
-B-25756,Furniture,Bookcases,UPI,Pune,Furniture,Pune,729,-492,5
-B-25761,Furniture,Bookcases,Credit Card,Mathura,Furniture,Mathura,2188,1050,5
-B-25655,Clothing,Hankerchief,UPI,Mathura,Clothing,Mathura,6,-3,1
-B-25786,Furniture,Bookcases,Credit Card,Prayagraj,Furniture,Prayagraj,1854,433,5
-B-26095,Clothing,Kurti,UPI,Mumbai,Clothing,Mumbai,6,1,1
-B-25853,Furniture,Chairs,Credit Card,Ahmedabad,Furniture,Ahmedabad,2093,721,5
-B-25735,Clothing,Skirt,UPI,Patna,Clothing,Patna,7,-1,2
-B-25910,Furniture,Tables,Credit Card,Simla,Furniture,Simla,1622,-624,5
-B-25950,Electronics,Printers,Credit Card,Mathura,Electronics,Mathura,1622,95,5
-B-25744,Electronics,Printers,UPI,Simla,Electronics,Simla,373,254,6
-B-25845,Clothing,Kurti,COD,Chandigarh,Clothing,Chandigarh,82,-33,4
-B-26001,Clothing,Skirt,UPI,Bhopal,Clothing,Bhopal,8,2,2
-B-25830,Electronics,Phones,Credit Card,Thiruvananthapuram,Electronics,Thiruvananthapuram,1954,782,3
-B-25842,Electronics,Printers,Credit Card,Mumbai,Electronics,Mumbai,1543,370,8
-B-25778,Electronics,Printers,Credit Card,Kohima,Electronics,Kohima,1506,-266,6
-B-25686,Furniture,Tables,Credit Card,Indore,Furniture,Indore,1829,-56,6
-B-25754,Clothing,Skirt,UPI,Bhopal,Clothing,Bhopal,9,-1,3
-B-26048,Furniture,Tables,EMI,Indore,Furniture,Indore,1461,202,5
-B-25816,Clothing,Stole,COD,Pune,Clothing,Pune,391,113,8
-B-26022,Electronics,Phones,Credit Card,Delhi,Electronics,Delhi,1824,1303,8
-B-25883,Clothing,Hankerchief,UPI,Indore,Clothing,Indore,16,-15,4
-B-26003,Furniture,Tables,Credit Card,Chandigarh,Furniture,Chandigarh,1745,122,2
-B-26097,Electronics,Printers,UPI,Udaipur,Electronics,Udaipur,663,-212,5
-B-25710,Clothing,Leggings,UPI,Bangalore,Clothing,Bangalore,10,-1,1
-B-25797,Furniture,Tables,EMI,Thiruvananthapuram,Furniture,Thiruvananthapuram,1630,802,5
-B-25618,Clothing,Hankerchief,UPI,Bhopal,Clothing,Bhopal,12,0,2
-B-25723,Clothing,Leggings,UPI,Ahmedabad,Clothing,Ahmedabad,12,-7,2
-B-25755,Clothing,Trousers,Credit Card,Pune,Clothing,Pune,1709,564,3
-B-25788,Clothing,Stole,UPI,Indore,Clothing,Indore,12,3,1
-B-25681,Electronics,Phones,EMI,Mumbai,Electronics,Mumbai,1625,-77,3
-B-25991,Clothing,Hankerchief,UPI,Lucknow,Clothing,Lucknow,13,5,2
-B-25779,Furniture,Tables,COD,Chandigarh,Furniture,Chandigarh,1361,980,3
-B-25909,Electronics,Phones,EMI,Pune,Electronics,Pune,1622,-448,3
-B-25943,Electronics,Accessories,EMI,Indore,Electronics,Indore,1547,340,6
-B-25935,Furniture,Chairs,Credit Card,Pune,Furniture,Pune,1657,460,4
-B-25613,Clothing,Saree,Credit Card,Chennai,Clothing,Chennai,1603,0,9
-B-25729,Electronics,Phones,Credit Card,Indore,Electronics,Indore,1549,-439,4
-B-25772,Electronics,Printers,EMI,Pune,Electronics,Pune,1183,106,4
-B-25655,Clothing,Skirt,UPI,Bhopal,Clothing,Bhopal,74,-123,8
-B-25640,Clothing,Saree,Credit Card,Kolkata,Clothing,Kolkata,1499,239,13
-B-25810,Clothing,Saree,EMI,Kohima,Clothing,Kohima,1120,199,6
-B-25801,Clothing,T-shirt,Debit Card,Bhopal,Clothing,Bhopal,15,-2,1
-B-26085,Clothing,Trousers,Credit Card,Indore,Clothing,Indore,1487,624,3
-B-25868,Furniture,Tables,Credit Card,Delhi,Furniture,Delhi,1118,206,2
-B-25714,Clothing,Hankerchief,COD,Thiruvananthapuram,Clothing,Thiruvananthapuram,11,-5,2
-B-25784,Clothing,Hankerchief,Debit Card,Bangalore,Clothing,Bangalore,15,4,1
-B-25608,Furniture,Tables,Credit Card,Kashmir,Furniture,Kashmir,1364,1864,5
-B-26051,Electronics,Printers,Credit Card,Pune,Electronics,Pune,1337,147,7
-B-25900,Clothing,Leggings,Debit Card,Ahmedabad,Clothing,Ahmedabad,15,2,1
-B-25760,Electronics,Printers,UPI,Indore,Electronics,Indore,322,-193,5
-B-25762,Electronics,Electronic Games,Credit Card,Hyderabad,Electronics,Hyderabad,1316,527,7
-B-25995,Furniture,Bookcases,Credit Card,Pune,Furniture,Pune,1314,342,3
-B-25965,Clothing,Hankerchief,Debit Card,Jaipur,Clothing,Jaipur,17,7,3
-B-25967,Clothing,Skirt,Debit Card,Kolkata,Clothing,Kolkata,17,2,2
-B-25674,Clothing,Skirt,Debit Card,Amritsar,Clothing,Amritsar,17,-12,5
-B-25929,Furniture,Bookcases,Credit Card,Mumbai,Furniture,Mumbai,1308,536,3
-B-25777,Electronics,Printers,Credit Card,Hyderabad,Electronics,Hyderabad,1076,-38,4
-B-26006,Electronics,Accessories,Credit Card,Patna,Electronics,Patna,1301,573,5
-B-25697,Electronics,Printers,Credit Card,Indore,Electronics,Indore,1300,-16,8
-B-25667,Clothing,Hankerchief,COD,Jaipur,Clothing,Jaipur,11,-2,4
-B-25836,Electronics,Printers,EMI,Surat,Electronics,Surat,1298,65,9
-B-25984,Clothing,Stole,UPI,Bhopal,Clothing,Bhopal,304,97,6
-B-25728,Electronics,Printers,EMI,Chandigarh,Electronics,Chandigarh,1055,264,4
-B-25757,Clothing,Skirt,Debit Card,Goa,Clothing,Goa,17,-13,4
-B-25957,Clothing,Stole,COD,Chandigarh,Clothing,Chandigarh,147,73,3
-B-26061,Electronics,Printers,COD,Mumbai,Electronics,Mumbai,965,-68,3
-B-25735,Clothing,Hankerchief,COD,Chandigarh,Clothing,Chandigarh,12,-2,3
-B-25616,Clothing,Hankerchief,UPI,Patna,Clothing,Patna,14,-2,3
-B-25666,Electronics,Electronic Games,COD,Indore,Electronics,Indore,934,-916,7
-B-25675,Clothing,Saree,COD,Chandigarh,Clothing,Chandigarh,929,-93,9
-B-26079,Clothing,Hankerchief,Debit Card,Mumbai,Clothing,Mumbai,18,3,2
-B-25850,Electronics,Phones,COD,Kashmir,Electronics,Kashmir,916,192,11
-B-25693,Clothing,Hankerchief,COD,Pune,Clothing,Pune,76,-72,9
-B-25852,Furniture,Tables,COD,Mumbai,Furniture,Mumbai,869,67,4
-B-25860,Clothing,Kurti,COD,Chandigarh,Clothing,Chandigarh,112,24,3
-B-25853,Clothing,Skirt,UPI,Bhopal,Clothing,Bhopal,39,16,6
-B-25898,Furniture,Tables,COD,Lucknow,Furniture,Lucknow,857,-274,2
-B-26100,Furniture,Chairs,COD,Indore,Furniture,Indore,828,230,2
-B-25653,Electronics,Printers,EMI,Indore,Electronics,Indore,1279,-640,8
-B-25839,Clothing,Saree,EMI,Mumbai,Clothing,Mumbai,1250,486,7
-B-25651,Furniture,Chairs,COD,Indore,Furniture,Indore,823,-18,7
-B-25957,Furniture,Bookcases,Credit Card,Chandigarh,Furniture,Chandigarh,1157,-13,9
-B-25704,Electronics,Accessories,UPI,Bhopal,Electronics,Bhopal,126,-63,3
-B-25730,Electronics,Phones,Credit Card,Mumbai,Electronics,Mumbai,1145,-706,3
-B-26052,Electronics,Accessories,COD,Udaipur,Electronics,Udaipur,774,170,3
-B-25656,Clothing,Hankerchief,COD,Goa,Clothing,Goa,24,-1,2
-B-26033,Electronics,Accessories,COD,Udaipur,Electronics,Udaipur,774,170,3
-B-25850,Clothing,Hankerchief,COD,Mumbai,Clothing,Mumbai,93,-1,2
-B-25945,Electronics,Electronic Games,COD,Indore,Electronics,Indore,765,-36,3
-B-26086,Electronics,Printers,COD,Ahmedabad,Electronics,Ahmedabad,762,101,6
-B-25752,Electronics,Electronic Games,COD,Bangalore,Electronics,Bangalore,761,266,9
-B-26098,Clothing,Leggings,UPI,Pune,Clothing,Pune,96,-48,5
-B-26067,Electronics,Printers,EMI,Bhopal,Electronics,Bhopal,1137,-14,7
-B-25730,Clothing,Hankerchief,Debit Card,Delhi,Clothing,Delhi,18,8,2
-B-25986,Furniture,Furnishings,COD,Hyderabad,Furniture,Hyderabad,749,-307,7
-B-26067,Clothing,Saree,EMI,Delhi,Clothing,Delhi,1120,199,6
-B-25953,Electronics,Printers,COD,Prayagraj,Electronics,Prayagraj,744,119,6
-B-25952,Clothing,Hankerchief,UPI,Hyderabad,Clothing,Hyderabad,14,0,4
-B-25903,Clothing,Hankerchief,Debit Card,Chandigarh,Clothing,Chandigarh,19,8,2
-B-25650,Clothing,Saree,COD,Kohima,Clothing,Kohima,512,-225,5
-B-25970,Furniture,Bookcases,COD,Indore,Furniture,Indore,742,198,2
-B-26062,Clothing,Stole,COD,Indore,Clothing,Indore,44,-40,3
-B-25643,Furniture,Bookcases,EMI,Amritsar,Furniture,Amritsar,1061,-36,8
-B-25632,Clothing,Leggings,Debit Card,Lucknow,Clothing,Lucknow,19,-2,2
-B-25821,Clothing,Hankerchief,COD,Patna,Clothing,Patna,17,0,1
-B-25878,Furniture,Bookcases,COD,Kolkata,Furniture,Kolkata,741,267,5
-B-25752,Electronics,Printers,COD,Bangalore,Electronics,Bangalore,735,-235,6
-B-25750,Clothing,Shirt,Debit Card,Delhi,Clothing,Delhi,19,-1,1
-B-25657,Electronics,Electronic Games,EMI,Ahmedabad,Electronics,Ahmedabad,1021,-48,4
-B-25787,Clothing,Saree,COD,Pune,Clothing,Pune,556,-209,7
-B-25808,Clothing,Leggings,COD,Indore,Clothing,Indore,63,-17,6
-B-25885,Furniture,Chairs,COD,Indore,Furniture,Indore,734,248,2
-B-25778,Clothing,Saree,Credit Card,Chandigarh,Clothing,Chandigarh,933,166,5
-B-25759,Clothing,Hankerchief,Debit Card,Thiruvananthapuram,Clothing,Thiruvananthapuram,20,-9,6
-B-25747,Furniture,Bookcases,Credit Card,Mumbai,Furniture,Mumbai,877,395,2
-B-25878,Furniture,Chairs,COD,Kolkata,Furniture,Kolkata,719,303,6
-B-25603,Clothing,Hankerchief,COD,Mumbai,Clothing,Mumbai,12,1,2
-B-25691,Clothing,Saree,COD,Mumbai,Clothing,Mumbai,714,56,4
-B-25607,Clothing,Leggings,COD,Thiruvananthapuram,Clothing,Thiruvananthapuram,50,-15,4
-B-25708,Electronics,Phones,COD,Indore,Electronics,Indore,709,-100,5
-B-26021,Clothing,Hankerchief,Debit Card,Indore,Clothing,Indore,21,-12,3
-B-25831,Clothing,Saree,COD,Mumbai,Clothing,Mumbai,693,254,6
-B-25850,Clothing,Hankerchief,COD,Indore,Clothing,Indore,24,1,4
-B-25670,Clothing,Hankerchief,UPI,Mumbai,Clothing,Mumbai,24,1,2
-B-25852,Clothing,Hankerchief,COD,Gangtok,Clothing,Gangtok,24,1,2
-B-26029,Clothing,T-shirt,Debit Card,Indore,Clothing,Indore,21,10,1
-B-25959,Furniture,Chairs,COD,Gangtok,Furniture,Gangtok,681,259,4
-B-25676,Furniture,Tables,COD,Mumbai,Furniture,Mumbai,674,-187,2
-B-26097,Electronics,Electronic Games,COD,Mathura,Electronics,Mathura,671,-309,5
-B-25888,Electronics,Electronic Games,COD,Indore,Electronics,Indore,646,-213,3
-B-25911,Clothing,Kurti,COD,Delhi,Clothing,Delhi,40,15,1
-B-25662,Clothing,T-shirt,COD,Bangalore,Clothing,Bangalore,24,-2,2
-B-25950,Electronics,Printers,COD,Ahmedabad,Electronics,Ahmedabad,644,167,2
-B-25847,Electronics,Printers,COD,Udaipur,Electronics,Udaipur,643,225,2
-B-25796,Clothing,Saree,COD,Goa,Clothing,Goa,632,-316,6
-B-25693,Clothing,Saree,COD,Simla,Clothing,Simla,632,316,6
-B-25993,Electronics,Printers,COD,Amritsar,Electronics,Amritsar,610,208,3
-B-26052,Clothing,Kurti,UPI,Hyderabad,Clothing,Hyderabad,78,-28,6
-B-25930,Furniture,Bookcases,COD,Chandigarh,Furniture,Chandigarh,595,119,4
-B-25785,Clothing,Saree,COD,Mumbai,Clothing,Mumbai,595,292,3
-B-26093,Furniture,Bookcases,Credit Card,Mumbai,Furniture,Mumbai,852,51,5
-B-26053,Furniture,Bookcases,COD,Chennai,Furniture,Chennai,594,89,3
-B-26019,Clothing,T-shirt,COD,Kashmir,Clothing,Kashmir,585,175,13
-B-26070,Furniture,Furnishings,COD,Mumbai,Furniture,Mumbai,582,262,5
-B-25870,Clothing,Saree,Credit Card,Bhopal,Clothing,Bhopal,845,84,7
-B-25855,Electronics,Printers,Credit Card,Mumbai,Electronics,Mumbai,829,19,4
-B-25602,Clothing,Saree,COD,Indore,Clothing,Indore,561,212,3
-B-25728,Electronics,Phones,Credit Card,Pune,Electronics,Pune,771,-424,2
-B-25803,Clothing,Saree,EMI,Gangtok,Clothing,Gangtok,765,8,6
-B-25996,Clothing,Hankerchief,COD,Indore,Clothing,Indore,31,2,2
-B-26078,Electronics,Electronic Games,COD,Kolkata,Electronics,Kolkata,557,-111,2
-B-25803,Electronics,Printers,Credit Card,Chandigarh,Electronics,Chandigarh,757,371,2
-B-25682,Electronics,Phones,COD,Kashmir,Electronics,Kashmir,545,-73,11
-B-25749,Furniture,Bookcases,UPI,Bangalore,Furniture,Bangalore,1052,-82,3
-B-25962,Furniture,Bookcases,COD,Thiruvananthapuram,Furniture,Thiruvananthapuram,544,-152,3
-B-25899,Clothing,Leggings,Debit Card,Delhi,Clothing,Delhi,22,9,2
-B-25845,Electronics,Printers,Credit Card,Indore,Electronics,Indore,757,371,2
-B-25951,Furniture,Bookcases,Credit Card,Mumbai,Furniture,Mumbai,742,198,2
-B-25828,Clothing,Saree,COD,Kolkata,Clothing,Kolkata,537,107,3
-B-25803,Clothing,Trousers,COD,Kashmir,Clothing,Kashmir,536,91,1
-B-25656,Clothing,Hankerchief,COD,Patna,Clothing,Patna,6,3,1
-B-25681,Clothing,Trousers,COD,Pune,Clothing,Pune,523,204,7
-B-25658,Clothing,T-shirt,UPI,Indore,Clothing,Indore,27,9,2
-B-25698,Furniture,Chairs,COD,Chandigarh,Furniture,Chandigarh,516,392,8
-B-25832,Furniture,Bookcases,COD,Jaipur,Furniture,Jaipur,504,116,3
-B-25886,Electronics,Phones,COD,Mumbai,Electronics,Mumbai,502,84,4
-B-25897,Electronics,Electronic Games,Credit Card,Indore,Electronics,Indore,734,213,6
-B-25873,Clothing,Kurti,COD,Patna,Clothing,Patna,42,12,2
-B-25858,Clothing,Skirt,COD,Kashmir,Clothing,Kashmir,29,11,4
-B-25867,Clothing,Kurti,UPI,Chennai,Clothing,Chennai,240,12,6
-B-25633,Clothing,Trousers,COD,Udaipur,Clothing,Udaipur,496,-79,2
-B-25609,Electronics,Electronic Games,COD,Mumbai,Electronics,Mumbai,485,29,4
-B-25896,Clothing,Skirt,UPI,Kohima,Clothing,Kohima,31,-11,3
-B-26000,Electronics,Printers,Credit Card,Udaipur,Electronics,Udaipur,676,151,3
-B-25959,Clothing,Hankerchief,Debit Card,Prayagraj,Clothing,Prayagraj,23,8,2
-B-25940,Clothing,Hankerchief,COD,Kashmir,Clothing,Kashmir,13,3,2
-B-26087,Clothing,Stole,COD,Simla,Clothing,Simla,180,0,8
-B-26055,Electronics,Phones,Credit Card,Mumbai,Electronics,Mumbai,671,114,9
-B-25980,Clothing,Kurti,COD,Jaipur,Clothing,Jaipur,22,11,3
-B-25653,Electronics,Printers,Credit Card,Lucknow,Electronics,Lucknow,668,-31,3
-B-26052,Clothing,Saree,UPI,Indore,Clothing,Indore,145,0,3
-B-25877,Clothing,Skirt,Debit Card,Mumbai,Clothing,Mumbai,24,8,2
-B-25608,Furniture,Chairs,COD,Mumbai,Furniture,Mumbai,476,0,3
-B-25897,Clothing,Hankerchief,Debit Card,Gangtok,Clothing,Gangtok,24,11,5
-B-25881,Clothing,Hankerchief,COD,Mumbai,Clothing,Mumbai,37,3,3
-B-25905,Clothing,Stole,UPI,Indore,Clothing,Indore,152,50,6
-B-25818,Clothing,Leggings,UPI,Mumbai,Clothing,Mumbai,32,11,2
-B-25835,Clothing,Leggings,COD,Delhi,Clothing,Delhi,52,11,5
-B-26081,Clothing,Hankerchief,Debit Card,Indore,Clothing,Indore,24,11,3
-B-25730,Furniture,Chairs,COD,Kolkata,Furniture,Kolkata,473,42,4
-B-25837,Clothing,Stole,COD,Mumbai,Clothing,Mumbai,263,50,5
-B-25893,Clothing,Kurti,COD,Bhopal,Clothing,Bhopal,61,11,3
-B-25689,Electronics,Electronic Games,COD,Ahmedabad,Electronics,Ahmedabad,469,-459,3
-B-26028,Electronics,Phones,COD,Pune,Electronics,Pune,1272,547,2
-B-26081,Electronics,Accessories,COD,Bangalore,Electronics,Bangalore,169,0,3
-B-25903,Clothing,Leggings,Debit Card,Thiruvananthapuram,Clothing,Thiruvananthapuram,25,11,3
-B-25651,Clothing,Saree,COD,Bangalore,Clothing,Bangalore,457,-41,4
-B-25903,Electronics,Accessories,COD,Bangalore,Electronics,Bangalore,455,77,8
-B-26086,Clothing,Hankerchief,Debit Card,Patna,Clothing,Patna,25,2,2
-B-25654,Electronics,Printers,COD,Bhopal,Electronics,Bhopal,450,-90,3
-B-25720,Furniture,Chairs,COD,Kashmir,Furniture,Kashmir,30,-35,1
-B-26057,Furniture,Bookcases,Credit Card,Mumbai,Furniture,Mumbai,659,-37,2
-B-25798,Electronics,Printers,COD,Jaipur,Electronics,Jaipur,448,148,2
-B-25961,Electronics,Printers,COD,Indore,Electronics,Indore,446,53,3
-B-25701,Furniture,Chairs,UPI,Hyderabad,Furniture,Hyderabad,98,-45,2
-B-26055,Clothing,Saree,COD,Goa,Clothing,Goa,443,11,1
-B-25653,Electronics,Phones,COD,Surat,Electronics,Surat,427,-50,7
-B-25670,Furniture,Bookcases,Credit Card,Mumbai,Furniture,Mumbai,656,-36,2
-B-26056,Clothing,Saree,COD,Mumbai,Clothing,Mumbai,424,161,2
-B-26061,Clothing,T-shirt,Debit Card,Kohima,Clothing,Kohima,27,8,2
-B-25602,Electronics,Phones,COD,Mumbai,Electronics,Mumbai,424,-272,5
-B-26016,Clothing,Hankerchief,COD,Kohima,Clothing,Kohima,202,4,4
-B-25873,Electronics,Phones,UPI,Indore,Electronics,Indore,1275,357,2
-B-25761,Electronics,Phones,COD,Hyderabad,Electronics,Hyderabad,418,70,7
-B-25819,Electronics,Electronic Games,COD,Hyderabad,Electronics,Hyderabad,417,49,3
-B-25853,Clothing,Stole,UPI,Kolkata,Clothing,Kolkata,199,48,4
-B-25662,Furniture,Furnishings,UPI,Mumbai,Furniture,Mumbai,385,-77,11
-B-25993,Electronics,Phones,COD,Ahmedabad,Electronics,Ahmedabad,414,199,3
-B-25703,Clothing,Saree,COD,Indore,Clothing,Indore,97,-45,4
-B-25848,Electronics,Electronic Games,Credit Card,Chandigarh,Electronics,Chandigarh,648,50,6
-B-25678,Clothing,Shirt,Debit Card,Mumbai,Clothing,Mumbai,27,-25,2
-B-25925,Clothing,Stole,Debit Card,Bangalore,Clothing,Bangalore,27,12,1
-B-25977,Clothing,Stole,UPI,Delhi,Clothing,Delhi,27,1,1
-B-25797,Furniture,Chairs,COD,Gangtok,Furniture,Gangtok,413,-314,9
-B-26067,Clothing,Hankerchief,COD,Kohima,Clothing,Kohima,53,2,4
-B-25810,Clothing,Hankerchief,UPI,Mumbai,Clothing,Mumbai,29,8,5
-B-25648,Clothing,T-shirt,UPI,Bhopal,Clothing,Bhopal,30,13,1
-B-25933,Clothing,Saree,COD,Delhi,Clothing,Delhi,412,412,6
-B-25942,Electronics,Printers,Credit Card,Bangalore,Electronics,Bangalore,646,-23,2
-B-25656,Clothing,Stole,UPI,Indore,Clothing,Indore,30,-5,5
-B-26067,Furniture,Bookcases,Credit Card,Chennai,Furniture,Chennai,618,27,4
-B-25673,Clothing,Saree,UPI,Goa,Clothing,Goa,143,-124,5
-B-25797,Clothing,Hankerchief,UPI,Bangalore,Clothing,Bangalore,31,1,2
-B-26098,Clothing,Saree,COD,Patna,Clothing,Patna,409,86,3
-B-25656,Clothing,Saree,COD,Patna,Clothing,Patna,406,126,2
-B-25791,Clothing,Saree,Credit Card,Jaipur,Clothing,Jaipur,565,66,7
-B-26053,Clothing,Stole,COD,Lucknow,Clothing,Lucknow,85,2,6
-B-25983,Furniture,Bookcases,Credit Card,Mumbai,Furniture,Mumbai,561,118,5
-B-25743,Clothing,Trousers,COD,Kashmir,Clothing,Kashmir,503,-56,2
-B-25867,Clothing,Stole,UPI,Simla,Clothing,Simla,31,14,3
-B-25973,Clothing,Hankerchief,COD,Kohima,Clothing,Kohima,398,111,8
-B-25895,Furniture,Bookcases,COD,Delhi,Furniture,Delhi,388,93,2
-B-26003,Clothing,Saree,UPI,Kolkata,Clothing,Kolkata,498,-116,4
-B-25717,Clothing,Saree,Credit Card,Delhi,Clothing,Delhi,561,212,3
-B-26064,Clothing,Hankerchief,COD,Bangalore,Clothing,Bangalore,61,3,4
-B-25630,Clothing,T-shirt,COD,Indore,Clothing,Indore,34,-22,4
-B-26050,Clothing,Shirt,UPI,Pune,Clothing,Pune,32,6,3
-B-25786,Furniture,Tables,UPI,Ahmedabad,Furniture,Ahmedabad,623,-192,3
-B-26035,Electronics,Phones,Credit Card,Mumbai,Electronics,Mumbai,520,151,3
-B-25693,Clothing,Saree,UPI,Lucknow,Clothing,Lucknow,32,-16,6
-B-25703,Clothing,Hankerchief,UPI,Amritsar,Clothing,Amritsar,32,-5,5
-B-25966,Electronics,Electronic Games,EMI,Amritsar,Electronics,Amritsar,510,234,6
-B-26060,Clothing,Saree,COD,Gangtok,Clothing,Gangtok,382,68,3
-B-25898,Clothing,Leggings,UPI,Delhi,Clothing,Delhi,33,13,3
-B-25686,Clothing,Saree,COD,Indore,Clothing,Indore,381,-13,2
-B-26051,Electronics,Accessories,EMI,Mumbai,Electronics,Mumbai,490,88,2
-B-25854,Clothing,Saree,COD,Chandigarh,Clothing,Chandigarh,381,144,2
-B-26050,Electronics,Phones,EMI,Indore,Electronics,Indore,487,143,4
-B-25961,Furniture,Bookcases,COD,Mumbai,Furniture,Mumbai,366,84,3
-B-25701,Clothing,Shirt,UPI,Goa,Clothing,Goa,33,-29,3
-B-25970,Electronics,Phones,COD,Thiruvananthapuram,Electronics,Thiruvananthapuram,365,107,3
-B-25933,Clothing,Saree,UPI,Prayagraj,Clothing,Prayagraj,207,-100,2
-B-26081,Furniture,Bookcases,COD,Bangalore,Furniture,Bangalore,359,-338,5
-B-25650,Electronics,Phones,COD,Indore,Electronics,Indore,351,-47,8
-B-25850,Clothing,Saree,EMI,Indore,Clothing,Indore,485,199,4
-B-25643,Clothing,Shirt,UPI,Kohima,Clothing,Kohima,37,-23,4
-B-26100,Clothing,T-shirt,Debit Card,Gangtok,Clothing,Gangtok,34,10,2
-B-25964,Furniture,Chairs,COD,Indore,Furniture,Indore,346,108,3
-B-25676,Electronics,Electronic Games,COD,Kashmir,Electronics,Kashmir,342,-103,4
-B-25628,Furniture,Furnishings,Debit Card,Jaipur,Furniture,Jaipur,35,-8,2
-B-25891,Clothing,Stole,UPI,Jaipur,Clothing,Jaipur,121,41,4
-B-25903,Electronics,Phones,COD,Lucknow,Electronics,Lucknow,336,57,2
-B-25851,Furniture,Bookcases,COD,Chandigarh,Furniture,Chandigarh,336,71,3
-B-26089,Clothing,Hankerchief,COD,Patna,Clothing,Patna,27,4,1
-B-25996,Electronics,Phones,COD,Amritsar,Electronics,Amritsar,333,50,2
-B-25881,Clothing,Leggings,Debit Card,Thiruvananthapuram,Clothing,Thiruvananthapuram,36,7,3
-B-25621,Electronics,Phones,COD,Goa,Electronics,Goa,333,-15,3
-B-25727,Clothing,Trousers,COD,Chennai,Clothing,Chennai,327,114,4
-B-25843,Clothing,Hankerchief,UPI,Ahmedabad,Clothing,Ahmedabad,18,6,3
-B-26050,Clothing,T-shirt,COD,Lucknow,Clothing,Lucknow,325,32,7
-B-25741,Electronics,Electronic Games,EMI,Indore,Electronics,Indore,482,-6,7
-B-25756,Electronics,Phones,EMI,Delhi,Electronics,Delhi,465,-33,4
-B-25787,Clothing,Shirt,COD,Pune,Clothing,Pune,40,-12,3
-B-25603,Clothing,Stole,COD,Jaipur,Clothing,Jaipur,107,36,6
-B-25655,Furniture,Chairs,COD,Amritsar,Furniture,Amritsar,312,-312,7
-B-26096,Electronics,Phones,EMI,Jaipur,Electronics,Jaipur,451,25,3
-B-25962,Electronics,Electronic Games,COD,Chandigarh,Electronics,Chandigarh,312,62,1
-B-26007,Furniture,Bookcases,COD,Thiruvananthapuram,Furniture,Thiruvananthapuram,311,72,2
-B-26088,Clothing,Hankerchief,UPI,Indore,Clothing,Indore,11,5,2
-B-25673,Clothing,T-shirt,Debit Card,Indore,Clothing,Indore,37,-5,3
-B-25664,Electronics,Phones,EMI,Gangtok,Electronics,Gangtok,444,-200,4
-B-25642,Clothing,Shirt,Credit Card,Surat,Clothing,Surat,434,26,11
-B-25987,Clothing,Stole,COD,Delhi,Clothing,Delhi,299,0,6
-B-25903,Clothing,Hankerchief,Debit Card,Kohima,Clothing,Kohima,37,17,3
-B-25770,Furniture,Bookcases,COD,Simla,Furniture,Simla,299,113,2
-B-25840,Furniture,Bookcases,COD,Chandigarh,Furniture,Chandigarh,298,74,2
-B-25846,Clothing,Leggings,UPI,Kolkata,Clothing,Kolkata,94,7,7
-B-25745,Clothing,Saree,COD,Hyderabad,Clothing,Hyderabad,296,225,11
-B-26073,Clothing,Hankerchief,Debit Card,Indore,Clothing,Indore,37,17,3
-B-26030,Electronics,Printers,COD,Amritsar,Electronics,Amritsar,291,93,2
-B-25678,Electronics,Phones,COD,Pune,Electronics,Pune,327,-39,1
-B-26035,Clothing,Saree,COD,Indore,Clothing,Indore,291,119,11
-B-25896,Clothing,Kurti,COD,Simla,Clothing,Simla,287,-66,6
-B-25989,Electronics,Accessories,UPI,Jaipur,Electronics,Jaipur,42,15,1
-B-26016,Electronics,Electronic Games,Credit Card,Thiruvananthapuram,Electronics,Thiruvananthapuram,429,61,3
-B-26009,Electronics,Printers,COD,Jaipur,Electronics,Jaipur,285,128,2
-B-25915,Electronics,Electronic Games,COD,Thiruvananthapuram,Electronics,Thiruvananthapuram,277,3,1
-B-25845,Electronics,Phones,COD,Surat,Electronics,Surat,274,-7,4
-B-25645,Electronics,Phones,COD,Kolkata,Electronics,Kolkata,273,-87,4
-B-25803,Electronics,Electronic Games,COD,Kolkata,Electronics,Kolkata,269,91,1
-B-26030,Clothing,Skirt,COD,Hyderabad,Clothing,Hyderabad,11,5,1
-B-25955,Clothing,Saree,Debit Card,Jaipur,Clothing,Jaipur,39,2,2
-B-26096,Clothing,Trousers,COD,Indore,Clothing,Indore,264,-26,3
-B-25635,Clothing,Hankerchief,Debit Card,Ahmedabad,Clothing,Ahmedabad,40,16,3
-B-26038,Clothing,T-shirt,Debit Card,Gangtok,Clothing,Gangtok,41,19,2
-B-25791,Clothing,Saree,UPI,Thiruvananthapuram,Clothing,Thiruvananthapuram,253,-63,2
-B-26014,Furniture,Chairs,Credit Card,Delhi,Furniture,Delhi,406,97,7
-B-25751,Clothing,Hankerchief,COD,,Clothing,Pune,32,7,3
-B-25962,Electronics,Printers,COD,Bhopal,Electronics,Bhopal,260,68,2
-B-26025,Clothing,Hankerchief,Debit Card,Mumbai,Clothing,Mumbai,41,19,5
-B-26048,Furniture,Chairs,Credit Card,Delhi,Furniture,Delhi,401,13,6
-B-25635,Clothing,Saree,Credit Card,Lucknow,Clothing,Lucknow,382,30,3
-B-25981,Electronics,Phones,COD,Kolkata,Electronics,Kolkata,867,251,5
-B-25610,Clothing,Saree,Debit Card,Bangalore,Clothing,Bangalore,43,0,3
-B-25733,Clothing,Stole,Debit Card,Surat,Clothing,Surat,43,-43,7
-B-25977,Clothing,Stole,COD,Hyderabad,Clothing,Hyderabad,74,29,3
-B-25655,Clothing,Hankerchief,Debit Card,Indore,Clothing,Indore,44,-26,3
-B-25612,Furniture,Chairs,COD,Patna,Furniture,Patna,259,-55,2
-B-25608,Clothing,Hankerchief,COD,Kohima,Clothing,Kohima,257,23,5
-B-25752,Clothing,Stole,COD,Chandigarh,Clothing,Chandigarh,76,27,5
-B-25700,Clothing,Stole,Debit Card,Ahmedabad,Clothing,Ahmedabad,44,-32,3
-B-25856,Clothing,Saree,COD,Indore,Clothing,Indore,257,3,2
-B-26026,Clothing,Hankerchief,COD,Udaipur,Clothing,Udaipur,255,76,9
-B-25861,Clothing,Hankerchief,Debit Card,Bhopal,Clothing,Bhopal,44,14,3
-B-25673,Clothing,Shirt,COD,Udaipur,Clothing,Udaipur,45,-2,4
-B-25681,Clothing,Saree,Debit Card,Goa,Clothing,Goa,44,-3,1
-B-26051,Clothing,Saree,Credit Card,Hyderabad,Clothing,Hyderabad,382,119,2
-B-25951,Clothing,Trousers,COD,Mumbai,Clothing,Mumbai,250,100,3
-B-25799,Furniture,Chairs,COD,Chandigarh,Furniture,Chandigarh,45,-15,2
-B-26053,Furniture,Bookcases,COD,Kolkata,Furniture,Kolkata,246,61,2
-B-26030,Clothing,Stole,COD,Chandigarh,Clothing,Chandigarh,50,25,5
-B-26054,Clothing,Hankerchief,COD,Patna,Clothing,Patna,246,98,5
-B-25696,Clothing,Kurti,Debit Card,Mumbai,Clothing,Mumbai,44,99,3
-B-25660,Clothing,Saree,COD,Kolkata,Clothing,Kolkata,245,-78,3
-B-25858,Clothing,Saree,COD,Mumbai,Clothing,Mumbai,245,30,2
-B-26045,Clothing,Stole,Credit Card,Mumbai,Clothing,Mumbai,,0,7
-B-25850,Clothing,T-shirt,Debit Card,Kolkata,Clothing,Kolkata,45,1,3
-B-25781,Clothing,Stole,Debit Card,Udaipur,Clothing,Udaipur,45,-28,2
-B-25918,Furniture,Furnishings,COD,Simla,Furniture,Simla,244,-122,5
-B-25971,Furniture,Bookcases,COD,Pune,Furniture,Pune,244,83,2
-B-25870,Clothing,Kurti,UPI,Patna,Clothing,Patna,10,4,1
-B-25770,Furniture,Bookcases,Credit Card,Thiruvananthapuram,Furniture,Thiruvananthapuram,375,180,3
-B-25757,Clothing,Skirt,Debit Card,Mumbai,Clothing,Mumbai,46,14,5
-B-25699,Clothing,Stole,UPI,Amritsar,Clothing,Amritsar,49,-31,2
-B-25776,Clothing,Kurti,Debit Card,Indore,Clothing,Indore,47,-20,2
-B-25893,Clothing,Stole,Credit Card,Jaipur,Clothing,Jaipur,355,-114,7
-B-25985,Clothing,Hankerchief,UPI,Surat,Clothing,Surat,32,8,5
-B-25681,Furniture,Chairs,COD,Surat,Furniture,Surat,243,-14,2
-B-26063,Electronics,Electronic Games,COD,Indore,Electronics,Indore,241,-77,4
-B-26032,Clothing,Saree,Debit Card,Goa,Clothing,Goa,47,15,5
-B-26001,Clothing,Skirt,Debit Card,Udaipur,Clothing,Udaipur,50,-10,6
-B-26056,Clothing,Hankerchief,COD,Mumbai,Clothing,Mumbai,15,6,2
-B-25850,Clothing,Stole,COD,Chennai,Clothing,Chennai,148,24,3
-B-25767,Electronics,Electronic Games,UPI,Kashmir,Electronics,Kashmir,299,-28,3
-B-25693,Electronics,Phones,UPI,Lucknow,Electronics,Lucknow,68,-30,1
-B-25850,Clothing,Leggings,Debit Card,Indore,Clothing,Indore,52,18,5
-B-25796,Furniture,Chairs,COD,Udaipur,Furniture,Udaipur,239,-162,5
-B-26053,Clothing,Skirt,COD,Indore,Clothing,Indore,27,6,3
-B-25650,Clothing,Saree,COD,Delhi,Clothing,Delhi,238,20,2
-B-25961,Clothing,Shirt,COD,Delhi,Clothing,Delhi,48,16,3
-B-26023,Clothing,Stole,UPI,Indore,Clothing,Indore,66,22,3
-B-25809,Clothing,Hankerchief,Debit Card,Bhopal,Clothing,Bhopal,53,24,1
-B-25621,Electronics,Electronic Games,COD,Mumbai,Electronics,,233,-10,5
-B-25854,Clothing,Saree,Debit Card,Mumbai,Clothing,Mumbai,53,-2,3
-B-26057,Clothing,T-shirt,Debit Card,Bhopal,Clothing,Bhopal,54,8,4
-B-25688,Clothing,Saree,Credit Card,Prayagraj,Clothing,Prayagraj,352,-345,5
-B-25885,Clothing,Stole,Credit Card,Lucknow,Clothing,Lucknow,349,0,7
-B-25753,Clothing,Trousers,Credit Card,Lucknow,Clothing,Lucknow,341,-85,6
-B-25981,Clothing,Saree,Debit Card,Indore,Clothing,Indore,54,12,3
-B-26055,Clothing,Shirt,UPI,Ahmedabad,Clothing,Ahmedabad,57,7,2
-B-25714,Clothing,Shirt,Credit Card,Lucknow,Clothing,Lucknow,340,20,7
-B-26055,Clothing,Stole,COD,Indore,Clothing,Indore,227,48,5
-B-25989,Furniture,Bookcases,Credit Card,Chandigarh,Furniture,Chandigarh,330,81,1
-B-25710,Furniture,Furnishings,UPI,Ahmedabad,Furniture,Ahmedabad,216,-38,6
-B-25773,Furniture,Chairs,COD,Chandigarh,Furniture,Chandigarh,224,-143,3
-B-25661,Furniture,Chairs,Debit Card,Bangalore,Furniture,Bangalore,55,-33,2
-B-26021,Clothing,Stole,UPI,Pune,Clothing,Pune,49,21,1
-B-26057,Clothing,Trousers,COD,Kolkata,Clothing,Kolkata,224,87,3
-B-25858,Furniture,Bookcases,COD,Indore,Furniture,Indore,223,27,2
-B-25857,Electronics,Accessories,Credit Card,Kohima,Electronics,Kohima,324,39,8
-B-25656,Clothing,Hankerchief,Debit Card,Pune,Clothing,Pune,56,18,2
-B-25999,Clothing,Shirt,COD,Indore,Clothing,Indore,223,62,7
-B-25856,Clothing,Skirt,COD,Thiruvananthapuram,Clothing,Thiruvananthapuram,10,2,2
-B-25926,Clothing,Leggings,Debit Card,Surat,Clothing,Surat,57,6,5
-B-25728,Clothing,Saree,Credit Card,Kohima,Clothing,Kohima,322,-113,4
-B-26076,Clothing,Saree,COD,Delhi,Clothing,Delhi,219,4,2
-B-25913,Clothing,Stole,UPI,Delhi,Clothing,Delhi,103,21,7
-B-25703,Clothing,Saree,COD,Kashmir,Clothing,Kashmir,47,-27,4
-B-25858,Clothing,Saree,COD,Mumbai,Clothing,Mumbai,219,0,1
-B-25727,Clothing,Leggings,Debit Card,Mumbai,Clothing,Mumbai,57,-48,6
-B-26020,Electronics,Accessories,Credit Card,Mumbai,Electronics,Mumbai,319,102,6
-B-26003,Furniture,Chairs,Credit Card,Kolkata,Furniture,Kolkata,315,-8,3
-B-25925,Electronics,Electronic Games,Credit Card,Mumbai,Electronics,Mumbai,314,-41,3
-B-26087,Electronics,Electronic Games,EMI,,Electronics,Indore,311,40,1
-B-25810,Electronics,Accessories,EMI,Mumbai,Electronics,Mumbai,307,74,3
-B-25858,Electronics,Accessories,EMI,Indore,Electronics,Indore,294,109,7
-B-25861,Electronics,Electronic Games,COD,Delhi,Electronics,Delhi,216,-83,3
-B-25661,Furniture,Chairs,Debit Card,Gangtok,Furniture,Gangtok,58,-42,2
-B-25943,Clothing,Stole,UPI,Bhopal,Clothing,Bhopal,48,20,4
-B-25955,Clothing,T-shirt,UPI,Bhopal,Clothing,Bhopal,54,14,3
-B-26051,Clothing,Stole,COD,Indore,Clothing,Indore,216,50,4
-B-25999,Clothing,Saree,COD,Jaipur,Clothing,Jaipur,215,-30,2
-B-26083,Clothing,Leggings,COD,Chandigarh,Clothing,Chandigarh,43,8,3
-B-25950,Clothing,Saree,COD,Simla,Clothing,Simla,136,-33,5
-B-25625,Clothing,Leggings,Debit Card,Chennai,Clothing,Chennai,59,-30,3
-B-26055,Clothing,Shirt,COD,Mumbai,Clothing,Mumbai,213,4,14
-B-26023,Clothing,Stole,Debit Card,Ahmedabad,Clothing,Ahmedabad,59,21,2
-B-26010,Clothing,T-shirt,COD,Mumbai,Clothing,Mumbai,55,3,3
-B-25955,Clothing,T-shirt,EMI,Indore,Clothing,Indore,294,62,9
-B-25900,Electronics,Phones,COD,Indore,Electronics,Indore,210,62,2
-B-26089,Clothing,Kurti,Debit Card,Ahmedabad,Clothing,Ahmedabad,59,24,6
-B-25655,Clothing,Saree,COD,Indore,Clothing,Indore,396,-31,9
-B-25979,Furniture,Bookcases,EMI,Goa,Furniture,Goa,284,45,2
-B-26002,,Saree,EMI,Indore,Clothing,Indore,276,52,5
-B-25635,Clothing,Skirt,UPI,Kolkata,Clothing,Kolkata,23,2,2
-B-26084,Electronics,Electronic Games,COD,Kohima,Electronics,Kohima,209,-63,4
-B-25998,Furniture,Furnishings,COD,Mumbai,Furniture,Mumbai,50,-28,5
-B-25872,Clothing,Shirt,COD,Surat,Clothing,Surat,57,27,2
-B-25795,Electronics,Phones,EMI,Simla,Electronics,Simla,276,-21,2
-B-25902,Furniture,Bookcases,UPI,Kashmir,Furniture,Kashmir,268,6,2
-B-25650,Clothing,Trousers,EMI,Chandigarh,Clothing,Chandigarh,269,111,3
-B-25957,Clothing,Saree,COD,Udaipur,Clothing,Udaipur,209,2,1
-B-25793,Clothing,Hankerchief,Debit Card,Goa,Clothing,Goa,60,-12,4
-B-25654,Electronics,Electronic Games,EMI,Simla,Electronics,Simla,269,-86,2
-B-25750,Clothing,Saree,COD,Mumbai,Clothing,Mumbai,208,-25,2
-B-25835,Clothing,Leggings,UPI,Jaipur,Clothing,Jaipur,27,2,2
-B-25652,Clothing,Saree,COD,Indore,Clothing,Indore,206,-206,3
-B-26018,Clothing,Hankerchief,Debit Card,Patna,Clothing,Patna,61,8,4
-B-25750,Furniture,Chairs,COD,Mumbai,Furniture,Mumbai,212,-24,2
-B-25840,Clothing,Saree,EMI,Thiruvananthapuram,Clothing,Thiruvananthapuram,262,64,6
-B-25756,Furniture,Bookcases,COD,Patna,Furniture,Patna,204,276,3
-B-25777,Clothing,T-shirt,UPI,Indore,Clothing,Indore,59,-46,7
-B-25750,Clothing,Saree,COD,Bhopal,Clothing,Bhopal,199,-18,2
-B-25823,Electronics,Accessories,UPI,Chandigarh,Electronics,Chandigarh,59,6,1
-B-26096,Clothing,Leggings,UPI,Simla,Clothing,Simla,45,9,3
-B-25757,Clothing,Stole,COD,Kohima,Clothing,Kohima,211,19,8
-B-25698,Electronics,Phones,Debit Card,Bangalore,Electronics,Bangalore,65,-16,2
-B-25710,Clothing,Skirt,UPI,Pune,Clothing,Pune,25,0,4
-B-25994,Electronics,Phones,COD,Indore,Electronics,Indore,196,-7,5
-B-25950,Clothing,Shirt,Credit Card,Mumbai,Clothing,Mumbai,261,13,6
-B-25653,Electronics,Phones,COD,Indore,Electronics,Indore,195,-117,5
-B-25785,Clothing,Saree,COD,Goa,Clothing,Goa,192,-146,3
-B-25863,Clothing,Stole,COD,Mumbai,Clothing,Mumbai,189,87,7
-B-25959,Clothing,Kurti,UPI,Chandigarh,Clothing,Chandigarh,32,2,2
-B-25991,Clothing,Shirt,COD,Bhopal,Clothing,Bhopal,188,13,7
-B-25680,Clothing,Saree,COD,Indore,Clothing,Indore,73,-25,3
-B-25910,Clothing,Hankerchief,Credit Card,Bhopal,Clothing,Bhopal,259,47,5
-B-25737,Clothing,Trousers,COD,Goa,Clothing,Goa,187,-15,3
-B-25853,Clothing,Hankerchief,UPI,Chandigarh,645,Chandigarh,26,11,2
-B-26097,Furniture,Chairs,COD,Jaipur,Furniture,Jaipur,185,-26,6
-B-25875,Clothing,Saree,Credit Card,Hyderabad,Clothing,Hyderabad,248,8,2
-B-26031,Clothing,Leggings,Debit Card,Bangalore,Clothing,Bangalore,67,9,4
-B-25773,Furniture,Chairs,Credit Card,Mumbai,Furniture,Mumbai,248,-70,3
-B-25840,Furniture,Bookcases,Credit Card,Kolkata,Furniture,Kolkata,246,61,2
-B-25908,Clothing,Kurti,COD,Mumbai,Clothing,Mumbai,179,-25,5
-B-26041,Furniture,Furnishings,COD,Udaipur,Furniture,Udaipur,176,-28,5
-B-26010,Furniture,Furnishings,COD,Pune,Furniture,Pune,176,-13,5
-B-25640,Clothing,Trousers,Debit Card,Ahmedabad,Clothing,Ahmedabad,68,-62,2
-B-25794,Electronics,Accessories,COD,Kashmir,Electronics,Kashmir,176,37,6
-B-25987,Clothing,Hankerchief,UPI,Patna,Clothing,Patna,88,11,7
-B-25615,Clothing,Hankerchief,Debit Card,Kolkata,Clothing,Kolkata,68,20,5
-B-25997,Electronics,Electronic Games,Credit Card,Gangtok,Electronics,Gangtok,231,99,2
-B-25981,Clothing,T-shirt,UPI,Chandigarh,Clothing,Chandigarh,62,8,2
-B-25791,Clothing,67676,COD,Simla,Clothing,Simla,175,77,3
-B-25986,Clothing,Leggings,Debit Card,Bangalore,Clothing,Bangalore,71,4,5
-B-25652,Electronics,Accessories,COD,Pune,Electronics,Pune,174,-70,3
-B-25952,Furniture,Chairs,COD,Kolkata,Furniture,Kolkata,173,69,3
-B-25898,Electronics,Electronic Games,COD,Bangalore,Electronics,Bangalore,171,2,2
-B-25785,Clothing,Saree,COD,Hyderabad,Clothing,Hyderabad,268,-25,3
-B-25990,Clothing,Saree,Debit Card,Jaipur,Clothing,Jaipur,71,32,3
-B-26091,Clothing,Hankerchief,UPI,Delhi,Clothing,Delhi,29,10,4
-B-25604,Clothing,T-shirt,UPI,Chennai,Clothing,Chennai,65,17,2
-B-25754,Clothing,Kurti,Debit Card,Goa,Clothing,Goa,72,-46,7
-B-25724,Furniture,Bookcases,COD,Gangtok,Furniture,Gangtok,168,-51,2
-B-25757,Clothing,Stole,COD,Mumbai,Clothing,Mumbai,165,30,3
-B-25767,Electronics,Accessories,Debit Card,Simla,Electronics,Simla,74,-59,2
-B-25886,Clothing,Stole,UPI,Jaipur,Clothing,Jaipur,89,17,2
+Order ID,Category,Sub-Category,PaymentMode,City,Amount,Profit,Quantity,,"""=""",<>,> 500,<1500,Not in IF,,,,,,,,,
+B-25681,Electronics,Electronic Games,COD,Mathura,1096,658,7,,Mathura,NO,1096,1096,Not,#SPILL!,,,,,,,,
+B-26055,Furniture,Chairs,EMI,Delhi,572,64,14,,its not,Delhi,572,572,Delhi,,,,,,,,,
+B-25955,Furniture,Bookcases,EMI,Mathura,292,146,8,,Mathura,NO,No,292,Not,,,,,Statements,Operators,Reference,Operande,
+B-26093,Electronics,Printers,Credit Card,Mumbai,2847,712,8,,its not,Mumbai,2847,NO,Mumbai,,,,,,,,,
+B-25602,Electronics,Phones,Credit Card,Indore,2617,1151,4,,its not,Indore,2617,NO,Indore,,,,,IF,=,CELL Reference,Text(String),
+B-25881,Clothing,Trousers,Credit Card,Prayagraj,2244,247,4,,its not,Prayagraj,2244,NO,Prayagraj,,,,,IF Nested,<>,Array Reference,Numbers,
+B-25696,Clothing,Saree,COD,Pune,275,-275,4,,its not,Pune,No,275,Pune,,,,,IFS,>,Column Reference,,
+B-25687,Clothing,Saree,UPI,Pune,387,-213,5,,its not,Pune,No,387,Pune,,,,,,>=,,,
+B-25643,Clothing,Hanker chief,UPI,Hyderabad,50,-44,2,,its not,Hyderabad,No,50,Hyderabad,,,,,,<,,,
+B-25851,Clothing,Kurtis,COD,Pune,135,-54,5,,its not,Pune,No,135,Pune,,,,,,<=,,,
+B-25703,Clothing,handkerchief,COD,Mumbai,231,-190,9,,its not,Mumbai,No,231,Mumbai,,,,,,,,,
+B-25887,Electronics,Printers,EMI,Surat,2125,-234,6,,its not,Surat,2125,NO,Surat,,,,,,,,,
+B-25923,Electronics,Phones,Credit Card,Mumbai,3873,-891,6,,its not,Mumbai,3873,NO,Mumbai,,,,,,,,,
+B-25756,Furniture,Bookcases,UPI,Pune,729,-492,5,,its not,Pune,729,729,Pune,,,,,,,,,
+B-25761,Furniture,Bookcases,Credit Card,Mathura,2188,1050,5,,Mathura,NO,2188,NO,Not,,,,,,,,,
+B-25655,Clothing,handkerchief,UPI,Mathura,6,-3,1,,Mathura,NO,No,6,Not,,,,,,,,,
+B-25786,Furniture,Bookcases,Credit Card,Prayagraj,1854,433,5,,its not,Prayagraj,1854,NO,Prayagraj,,,,,,,,,
+B-26095,Clothing,Kurtis,UPI,Mumbai,6,1,1,,its not,Mumbai,No,6,Mumbai,,,,,,,,,
+B-25853,Furniture,Chairs,Credit Card,Ahmedabad,2093,721,5,,its not,Ahmedabad,2093,NO,Ahmedabad,,,,,,,,,
+B-25735,Clothing,Skirt,UPI,Patna,7,-1,2,,its not,Patna,No,7,Patna,,,,,,,,,
+B-25910,Furniture,Tables,Credit Card,Shimla,1622,-624,5,,its not,Shimla,1622,NO,Shimla,,,,,,,,,
+B-25950,Electronics,Printers,Credit Card,Mathura,1622,95,5,,Mathura,NO,1622,NO,Not,,,,,,,,,
+B-25744,Electronics,Printers,UPI,Shimla,373,254,6,,its not,Shimla,No,373,Shimla,,,,,,,,,
+B-25845,Clothing,Kurta,COD,Chandigarh,82,-33,4,,its not,Chandigarh,No,82,Chandigarh,,,,,,,,,
+B-26001,Clothing,Skirt,UPI,Bhopal,8,2,2,,its not,Bhopal,No,8,Bhopal,,,,,,,,,
+B-25830,Electronics,Phones,Credit Card,Thiruvananthapuram,1954,782,3,,its not,Thiruvananthapuram,1954,NO,Thiruvananthapuram,,,,,,,,,
+B-25842,Electronics,Printers,Credit Card,Mumbai,1543,370,8,,its not,Mumbai,1543,NO,Mumbai,,,,,,,,,
+B-25778,Electronics,Printers,Credit Card,Kohima,1506,-266,6,,its not,Kohima,1506,NO,Kohima,,,,,,,,,
+B-25686,Furniture,Tables,Credit Card,Indore,1829,-56,6,,its not,Indore,1829,NO,Indore,,,,,,,,,
+B-25754,Clothing,Skirt,UPI,Bhopal,9,-1,3,,its not,Bhopal,No,9,Bhopal,,,,,,,,,
+B-26048,Furniture,Tables,EMI,Indore,1461,202,5,,its not,Indore,1461,1461,Indore,,,,,,,,,
+B-25816,Clothing,Stole,COD,Pune,391,113,8,,its not,Pune,No,391,Pune,,,,,,,,,
+B-26022,Electronics,Phones,Credit Card,Delhi,1824,1303,8,,its not,Delhi,1824,NO,Delhi,,,,,,,,,
+B-25883,Clothing,Handkerchief,UPI,Indore,16,-15,4,,its not,Indore,No,16,Indore,,,,,,,,,
+B-26003,Furniture,Tables,Credit Card,Chandigarh,1745,122,2,,its not,Chandigarh,1745,NO,Chandigarh,,,,,,,,,
+B-26097,Electronics,Printers,UPI,Udaipur,663,-212,5,,its not,Udaipur,663,663,Udaipur,,,,,,,,,
+B-25710,Clothing,Leggings,UPI,Bangalore,10,-1,1,,its not,Bangalore,No,10,Bangalore,,,,,,,,,
+B-25797,Furniture,Tables,EMI,Thiruvananthapuram,1630,802,5,,its not,Thiruvananthapuram,1630,NO,Thiruvananthapuram,,,,,,,,,
+B-25618,Clothing,Handkerchief,UPI,Bhopal,12,0,2,,its not,Bhopal,No,12,Bhopal,,,,,,,,,
+B-25723,Clothing,Leggings,UPI,Ahmedabad,12,-7,2,,its not,Ahmedabad,No,12,Ahmedabad,,,,,,,,,
+B-25755,Clothing,Trousers,Credit Card,Pune,1709,564,3,,its not,Pune,1709,NO,Pune,,,,,,,,,
+B-25788,Clothing,Stole,UPI,Indore,12,3,1,,its not,Indore,No,12,Indore,,,,,,,,,
+B-25681,Electronics,Phones,EMI,Mumbai,1625,-77,3,,its not,Mumbai,1625,NO,Mumbai,,,,,,,,,
+B-25991,Clothing,Handkerchief,UPI,Lucknow,13,5,2,,its not,Lucknow,No,13,Lucknow,,,,,,,,,
+B-25779,Furniture,Tables,COD,Chandigarh,1361,980,3,,its not,Chandigarh,1361,1361,Chandigarh,,,,,,,,,
+B-25909,Electronics,Phones,EMI,Pune,1622,-448,3,,its not,Pune,1622,NO,Pune,,,,,,,,,
+B-25943,Electronics,Accessories,EMI,Indore,1547,340,6,,its not,Indore,1547,NO,Indore,,,,,,,,,
+B-25935,Furniture,Chairs,Credit Card,Pune,1657,460,4,,its not,Pune,1657,NO,Pune,,,,,,,,,
+B-25613,Clothing,Saree,Credit Card,Chennai,1603,0,9,,its not,Chennai,1603,NO,Chennai,,,,,,,,,
+B-25729,Electronics,Phones,Credit Card,Indore,1549,-439,4,,its not,Indore,1549,NO,Indore,,,,,,,,,
+B-25772,Electronics,Printers,EMI,Pune,1183,106,4,,its not,Pune,1183,1183,Pune,,,,,,,,,
+B-25655,Clothing,Skirt,UPI,Bhopal,74,-123,8,,its not,Bhopal,No,74,Bhopal,,,,,,,,,
+B-25640,Clothing,Saree,Credit Card,Kolkata,1499,239,13,,its not,Kolkata,1499,1499,Kolkata,,,,,,,,,
+B-25810,Clothing,Saree,EMI,Kohima,1120,199,6,,its not,Kohima,1120,1120,Kohima,,,,,,,,,
+B-25801,Clothing,T-shirt,Debit Card,Bhopal,15,-2,1,,its not,Bhopal,No,15,Bhopal,,,,,,,,,
+B-26085,Clothing,Trousers,Credit Card,Indore,1487,624,3,,its not,Indore,1487,1487,Indore,,,,,,,,,
+B-25868,Furniture,Tables,Credit Card,Delhi,1118,206,2,,its not,Delhi,1118,1118,Delhi,,,,,,,,,
+B-25714,Clothing,Handkerchief,COD,Thiruvananthapuram,11,-5,2,,its not,Thiruvananthapuram,No,11,Thiruvananthapuram,,,,,,,,,
+B-25784,Clothing,Handkerchief,Debit Card,Bangalore,15,4,1,,its not,Bangalore,No,15,Bangalore,,,,,,,,,
+B-25608,Furniture,Tables,Credit Card,Kashmir,1364,1864,5,,its not,Kashmir,1364,1364,Kashmir,,,,,,,,,
+B-26051,Electronics,Printers,Credit Card,Pune,1337,147,7,,its not,Pune,1337,1337,Pune,,,,,,,,,
+B-25900,Clothing,Leggings,Debit Card,Ahmedabad,15,2,1,,its not,Ahmedabad,No,15,Ahmedabad,,,,,,,,,
+B-25760,Electronics,Printers,UPI,Indore,322,-193,5,,its not,Indore,No,322,Indore,,,,,,,,,
+B-25762,Electronics,Electronic Games,Credit Card,Hyderabad,1316,527,7,,its not,Hyderabad,1316,1316,Hyderabad,,,,,,,,,
+B-25995,Furniture,Bookcases,Credit Card,Pune,1314,342,3,,its not,Pune,1314,1314,Pune,,,,,,,,,
+B-25965,Clothing,Handkerchief,Debit Card,Jaipur,17,7,3,,its not,Jaipur,No,17,Jaipur,,,,,,,,,
+B-25967,Clothing,Skirt,Debit Card,Kolkata,17,2,2,,its not,Kolkata,No,17,Kolkata,,,,,,,,,
+B-25674,Clothing,Skirt,Debit Card,Amritsar,17,-12,5,,its not,Amritsar,No,17,Amritsar,,,,,,,,,
+B-25929,Furniture,Bookcases,Credit Card,Mumbai,1308,536,3,,its not,Mumbai,1308,1308,Mumbai,,,,,,,,,
+B-25777,Electronics,Printers,Credit Card,Hyderabad,1076,-38,4,,its not,Hyderabad,1076,1076,Hyderabad,,,,,,,,,
+B-26006,Electronics,Accessories,Credit Card,Patna,1301,573,5,,its not,Patna,1301,1301,Patna,,,,,,,,,
+B-25697,Electronics,Printers,Credit Card,Indore,1300,-16,8,,its not,Indore,1300,1300,Indore,,,,,,,,,
+B-25667,Clothing,Handkerchief,COD,Jaipur,11,-2,4,,its not,Jaipur,No,11,Jaipur,,,,,,,,,
+B-25836,Electronics,Printers,EMI,Surat,1298,65,9,,its not,Surat,1298,1298,Surat,,,,,,,,,
+B-25984,Clothing,Stole,UPI,Bhopal,304,97,6,,its not,Bhopal,No,304,Bhopal,,,,,,,,,
+B-25728,Electronics,Printers,EMI,Chandigarh,1055,264,4,,its not,Chandigarh,1055,1055,Chandigarh,,,,,,,,,
+B-25757,Clothing,Skirt,Debit Card,Goa,17,-13,4,,its not,Goa,No,17,Goa,,,,,,,,,
+B-25957,Clothing,Stole,COD,Chandigarh,147,73,3,,its not,Chandigarh,No,147,Chandigarh,,,,,,,,,
+B-26061,Electronics,Printers,COD,Mumbai,965,-68,3,,its not,Mumbai,965,965,Mumbai,,,,,,,,,
+B-25735,Clothing,Handkerchief,COD,Chandigarh,12,-2,3,,its not,Chandigarh,No,12,Chandigarh,,,,,,,,,
+B-25616,Clothing,Handkerchief,UPI,Patna,14,-2,3,,its not,Patna,No,14,Patna,,,,,,,,,
+B-25666,Electronics,Electronic Games,COD,Indore,934,-916,7,,its not,Indore,934,934,Indore,,,,,,,,,
+B-25675,Clothing,Saree,COD,Chandigarh,929,-93,9,,its not,Chandigarh,929,929,Chandigarh,,,,,,,,,
+B-26079,Clothing,Handkerchief,Debit Card,Mumbai,18,3,2,,its not,Mumbai,No,18,Mumbai,,,,,,,,,
+B-25850,Electronics,Phones,COD,Kashmir,916,192,11,,its not,Kashmir,916,916,Kashmir,,,,,,,,,
+B-25693,Clothing,Handkerchief,COD,Pune,76,-72,9,,its not,Pune,No,76,Pune,,,,,,,,,
+B-25852,Furniture,Tables,COD,Mumbai,869,67,4,,its not,Mumbai,869,869,Mumbai,,,,,,,,,
+B-25860,Clothing,Kurti,COD,Chandigarh,112,24,3,,its not,Chandigarh,No,112,Chandigarh,,,,,,,,,
+B-25853,Clothing,Skirt,UPI,Bhopal,39,16,6,,its not,Bhopal,No,39,Bhopal,,,,,,,,,
+B-25898,Furniture,Tables,COD,Lucknow,857,-274,2,,its not,Lucknow,857,857,Lucknow,,,,,,,,,
+B-26100,Furniture,Chairs,COD,Indore,828,230,2,,its not,Indore,828,828,Indore,,,,,,,,,
+B-25653,Electronics,Printers,EMI,Indore,1279,-640,8,,its not,Indore,1279,1279,Indore,,,,,,,,,
+B-25839,Clothing,Saree,EMI,Mumbai,1250,486,7,,its not,Mumbai,1250,1250,Mumbai,,,,,,,,,
+B-25651,Furniture,Chairs,COD,Indore,823,-18,7,,its not,Indore,823,823,Indore,,,,,,,,,
+B-25957,Furniture,Bookcases,Credit Card,Chandigarh,1157,-13,9,,its not,Chandigarh,1157,1157,Chandigarh,,,,,,,,,
+B-25704,Electronics,Accessories,UPI,Bhopal,126,-63,3,,its not,Bhopal,No,126,Bhopal,,,,,,,,,
+B-25730,Electronics,Phones,Credit Card,Mumbai,1145,-706,3,,its not,Mumbai,1145,1145,Mumbai,,,,,,,,,
+B-26052,Electronics,Accessories,COD,Udaipur,774,170,3,,its not,Udaipur,774,774,Udaipur,,,,,,,,,
+B-25656,Clothing,Hankerchief,COD,Goa,24,-1,2,,its not,Goa,No,24,Goa,,,,,,,,,
+B-26033,Electronics,Accessories,COD,Udaipur,774,170,3,,its not,Udaipur,774,774,Udaipur,,,,,,,,,
+B-25850,Clothing,Hankerchief,COD,Mumbai,93,-1,2,,its not,Mumbai,No,93,Mumbai,,,,,,,,,
+B-25945,Electronics,Electronic Games,COD,Indore,765,-36,3,,its not,Indore,765,765,Indore,,,,,,,,,
+B-26086,Electronics,Printers,COD,Ahmedabad,762,101,6,,its not,Ahmedabad,762,762,Ahmedabad,,,,,,,,,
+B-25752,Electronics,Electronic Games,COD,Bangalore,761,266,9,,its not,Bangalore,761,761,Bangalore,,,,,,,,,
+B-26098,Clothing,Leggings,UPI,Pune,96,-48,5,,its not,Pune,No,96,Pune,,,,,,,,,
+B-26067,Electronics,Printers,EMI,Bhopal,1137,-14,7,,its not,Bhopal,1137,1137,Bhopal,,,,,,,,,
+B-25730,Clothing,Hankerchief,Debit Card,Delhi,18,8,2,,its not,Delhi,No,18,Delhi,,,,,,,,,
+B-25986,Furniture,Furnishings,COD,Hyderabad,749,-307,7,,its not,Hyderabad,749,749,Hyderabad,,,,,,,,,
+B-26067,Clothing,Saree,EMI,Delhi,1120,199,6,,its not,Delhi,1120,1120,Delhi,,,,,,,,,
+B-25953,Electronics,Printers,COD,Prayagraj,744,119,6,,its not,Prayagraj,744,744,Prayagraj,,,,,,,,,
+B-25952,Clothing,Hankerchief,UPI,Hyderabad,14,0,4,,its not,Hyderabad,No,14,Hyderabad,,,,,,,,,
+B-25903,Clothing,Hankerchief,Debit Card,Chandigarh,19,8,2,,its not,Chandigarh,No,19,Chandigarh,,,,,,,,,
+B-25650,Clothing,Saree,COD,Kohima,512,-225,5,,its not,Kohima,512,512,Kohima,,,,,,,,,
+B-25970,Furniture,Bookcases,COD,Indore,742,198,2,,its not,Indore,742,742,Indore,,,,,,,,,
+B-26062,Clothing,Stole,COD,Indore,44,-40,3,,its not,Indore,No,44,Indore,,,,,,,,,
+B-25643,Furniture,Bookcases,EMI,Amritsar,1061,-36,8,,its not,Amritsar,1061,1061,Amritsar,,,,,,,,,
+B-25632,Clothing,Leggings,Debit Card,Lucknow,19,-2,2,,its not,Lucknow,No,19,Lucknow,,,,,,,,,
+B-25821,Clothing,Hankerchief,COD,Patna,17,0,1,,its not,Patna,No,17,Patna,,,,,,,,,
+B-25878,Furniture,Bookcases,COD,Kolkata,741,267,5,,its not,Kolkata,741,741,Kolkata,,,,,,,,,
+B-25752,Electronics,Printers,COD,Bangalore,735,-235,6,,its not,Bangalore,735,735,Bangalore,,,,,,,,,
+B-25750,Clothing,Shirt,Debit Card,Delhi,19,-1,1,,its not,Delhi,No,19,Delhi,,,,,,,,,
+B-25657,Electronics,Electronic Games,EMI,Ahmedabad,1021,-48,4,,its not,Ahmedabad,1021,1021,Ahmedabad,,,,,,,,,
+B-25787,Clothing,Saree,COD,Pune,556,-209,7,,its not,Pune,556,556,Pune,,,,,,,,,
+B-25808,Clothing,Leggings,COD,Indore,63,-17,6,,its not,Indore,No,63,Indore,,,,,,,,,
+B-25885,Furniture,Chairs,COD,Indore,734,248,2,,its not,Indore,734,734,Indore,,,,,,,,,
+B-25778,Clothing,Saree,Credit Card,Chandigarh,933,166,5,,its not,Chandigarh,933,933,Chandigarh,,,,,,,,,
+B-25759,Clothing,Hankerchief,Debit Card,Thiruvananthapuram,20,-9,6,,its not,Thiruvananthapuram,No,20,Thiruvananthapuram,,,,,,,,,
+B-25747,Furniture,Bookcases,Credit Card,Mumbai,877,395,2,,its not,Mumbai,877,877,Mumbai,,,,,,,,,
+B-25878,Furniture,Chairs,COD,Kolkata,719,303,6,,its not,Kolkata,719,719,Kolkata,,,,,,,,,
+B-25603,Clothing,Hankerchief,COD,Mumbai,12,1,2,,its not,Mumbai,No,12,Mumbai,,,,,,,,,
+B-25691,Clothing,Saree,COD,Mumbai,714,56,4,,its not,Mumbai,714,714,Mumbai,,,,,,,,,
+B-25607,Clothing,Leggings,COD,Thiruvananthapuram,50,-15,4,,its not,Thiruvananthapuram,No,50,Thiruvananthapuram,,,,,,,,,
+B-25708,Electronics,Phones,COD,Indore,709,-100,5,,its not,Indore,709,709,Indore,,,,,,,,,
+B-26021,Clothing,Hankerchief,Debit Card,Indore,21,-12,3,,its not,Indore,No,21,Indore,,,,,,,,,
+B-25831,Clothing,Saree,COD,Mumbai,693,254,6,,its not,Mumbai,693,693,Mumbai,,,,,,,,,
+B-25850,Clothing,Hankerchief,COD,Indore,24,1,4,,its not,Indore,No,24,Indore,,,,,,,,,
+B-25670,Clothing,Hankerchief,UPI,Mumbai,24,1,2,,its not,Mumbai,No,24,Mumbai,,,,,,,,,
+B-25852,Clothing,Hankerchief,COD,Gangtok,24,1,2,,its not,Gangtok,No,24,Gangtok,,,,,,,,,
+B-26029,Clothing,T-shirt,Debit Card,Indore,21,10,1,,its not,Indore,No,21,Indore,,,,,,,,,
+B-25959,Furniture,Chairs,COD,Gangtok,681,259,4,,its not,Gangtok,681,681,Gangtok,,,,,,,,,
+B-25676,Furniture,Tables,COD,Mumbai,674,-187,2,,its not,Mumbai,674,674,Mumbai,,,,,,,,,
+B-26097,Electronics,Electronic Games,COD,Mathura,671,-309,5,,Mathura,NO,671,671,Not,,,,,,,,,
+B-25888,Electronics,Electronic Games,COD,Indore,646,-213,3,,its not,Indore,646,646,Indore,,,,,,,,,
+B-25911,Clothing,Kurti,COD,Delhi,40,15,1,,its not,Delhi,No,40,Delhi,,,,,,,,,
+B-25662,Clothing,T-shirt,COD,Bangalore,24,-2,2,,its not,Bangalore,No,24,Bangalore,,,,,,,,,
+B-25950,Electronics,Printers,COD,Ahmedabad,644,167,2,,its not,Ahmedabad,644,644,Ahmedabad,,,,,,,,,
+B-25847,Electronics,Printers,COD,Udaipur,643,225,2,,its not,Udaipur,643,643,Udaipur,,,,,,,,,
+B-25796,Clothing,Saree,COD,Goa,632,-316,6,,its not,Goa,632,632,Goa,,,,,,,,,
+B-25693,Clothing,Saree,COD,Simla,632,316,6,,its not,Simla,632,632,Simla,,,,,,,,,
+B-25993,Electronics,Printers,COD,Amritsar,610,208,3,,its not,Amritsar,610,610,Amritsar,,,,,,,,,
+B-26052,Clothing,Kurti,UPI,Hyderabad,78,-28,6,,its not,Hyderabad,No,78,Hyderabad,,,,,,,,,
+B-25930,Furniture,Bookcases,COD,Chandigarh,595,119,4,,its not,Chandigarh,595,595,Chandigarh,,,,,,,,,
+B-25785,Clothing,Saree,COD,Mumbai,595,292,3,,its not,Mumbai,595,595,Mumbai,,,,,,,,,
+B-26093,Furniture,Bookcases,Credit Card,Mumbai,852,51,5,,its not,Mumbai,852,852,Mumbai,,,,,,,,,
+B-26053,Furniture,Bookcases,COD,Chennai,594,89,3,,its not,Chennai,594,594,Chennai,,,,,,,,,
+B-26019,Clothing,T-shirt,COD,Kashmir,585,175,13,,its not,Kashmir,585,585,Kashmir,,,,,,,,,
+B-26070,Furniture,Furnishings,COD,Mumbai,582,262,5,,its not,Mumbai,582,582,Mumbai,,,,,,,,,
+B-25870,Clothing,Saree,Credit Card,Bhopal,845,84,7,,its not,Bhopal,845,845,Bhopal,,,,,,,,,
+B-25855,Electronics,Printers,Credit Card,Mumbai,829,19,4,,its not,Mumbai,829,829,Mumbai,,,,,,,,,
+B-25602,Clothing,Saree,COD,Indore,561,212,3,,its not,Indore,561,561,Indore,,,,,,,,,
+B-25728,Electronics,Phones,Credit Card,Pune,771,-424,2,,its not,Pune,771,771,Pune,,,,,,,,,
+B-25803,Clothing,Saree,EMI,Gangtok,765,8,6,,its not,Gangtok,765,765,Gangtok,,,,,,,,,
+B-25996,Clothing,Hankerchief,COD,Indore,31,2,2,,its not,Indore,No,31,Indore,,,,,,,,,
+B-26078,Electronics,Electronic Games,COD,Kolkata,557,-111,2,,its not,Kolkata,557,557,Kolkata,,,,,,,,,
+B-25803,Electronics,Printers,Credit Card,Chandigarh,757,371,2,,its not,Chandigarh,757,757,Chandigarh,,,,,,,,,
+B-25682,Electronics,Phones,COD,Kashmir,545,-73,11,,its not,Kashmir,545,545,Kashmir,,,,,,,,,
+B-25749,Furniture,Bookcases,UPI,Bangalore,1052,-82,3,,its not,Bangalore,1052,1052,Bangalore,,,,,,,,,
+B-25962,Furniture,Bookcases,COD,Thiruvananthapuram,544,-152,3,,its not,Thiruvananthapuram,544,544,Thiruvananthapuram,,,,,,,,,
+B-25899,Clothing,Leggings,Debit Card,Delhi,22,9,2,,its not,Delhi,No,22,Delhi,,,,,,,,,
+B-25845,Electronics,Printers,Credit Card,Indore,757,371,2,,its not,Indore,757,757,Indore,,,,,,,,,
+B-25951,Furniture,Bookcases,Credit Card,Mumbai,742,198,2,,its not,Mumbai,742,742,Mumbai,,,,,,,,,
+B-25828,Clothing,Saree,COD,Kolkata,537,107,3,,its not,Kolkata,537,537,Kolkata,,,,,,,,,
+B-25803,Clothing,Trousers,COD,Kashmir,536,91,1,,its not,Kashmir,536,536,Kashmir,,,,,,,,,
+B-25656,Clothing,Hankerchief,COD,Patna,6,3,1,,its not,Patna,No,6,Patna,,,,,,,,,
+B-25681,Clothing,Trousers,COD,Pune,523,204,7,,its not,Pune,523,523,Pune,,,,,,,,,
+B-25658,Clothing,T-shirt,UPI,Indore,27,9,2,,its not,Indore,No,27,Indore,,,,,,,,,
+B-25698,Furniture,Chairs,COD,Chandigarh,516,392,8,,its not,Chandigarh,516,516,Chandigarh,,,,,,,,,
+B-25832,Furniture,Bookcases,COD,Jaipur,504,116,3,,its not,Jaipur,504,504,Jaipur,,,,,,,,,
+B-25886,Electronics,Phones,COD,Mumbai,502,84,4,,its not,Mumbai,502,502,Mumbai,,,,,,,,,
+B-25897,Electronics,Electronic Games,Credit Card,Indore,734,213,6,,its not,Indore,734,734,Indore,,,,,,,,,
+B-25873,Clothing,Kurti,COD,Patna,42,12,2,,its not,Patna,No,42,Patna,,,,,,,,,
+B-25858,Clothing,Skirt,COD,Kashmir,29,11,4,,its not,Kashmir,No,29,Kashmir,,,,,,,,,
+B-25867,Clothing,Kurti,UPI,Chennai,240,12,6,,its not,Chennai,No,240,Chennai,,,,,,,,,
+B-25633,Clothing,Trousers,COD,Udaipur,496,-79,2,,its not,Udaipur,No,496,Udaipur,,,,,,,,,
+B-25609,Electronics,Electronic Games,COD,Mumbai,485,29,4,,its not,Mumbai,No,485,Mumbai,,,,,,,,,
+B-25896,Clothing,Skirt,UPI,Kohima,31,-11,3,,its not,Kohima,No,31,Kohima,,,,,,,,,
+B-26000,Electronics,Printers,Credit Card,Udaipur,676,151,3,,its not,Udaipur,676,676,Udaipur,,,,,,,,,
+B-25959,Clothing,Hankerchief,Debit Card,Prayagraj,23,8,2,,its not,Prayagraj,No,23,Prayagraj,,,,,,,,,
+B-25940,Clothing,Hankerchief,COD,Kashmir,13,3,2,,its not,Kashmir,No,13,Kashmir,,,,,,,,,
+B-26087,Clothing,Stole,COD,Simla,180,0,8,,its not,Simla,No,180,Simla,,,,,,,,,
+B-26055,Electronics,Phones,Credit Card,Mumbai,671,114,9,,its not,Mumbai,671,671,Mumbai,,,,,,,,,
+B-25980,Clothing,Kurti,COD,Jaipur,22,11,3,,its not,Jaipur,No,22,Jaipur,,,,,,,,,
+B-25653,Electronics,Printers,Credit Card,Lucknow,668,-31,3,,its not,Lucknow,668,668,Lucknow,,,,,,,,,
+B-26052,Clothing,Saree,UPI,Indore,145,0,3,,its not,Indore,No,145,Indore,,,,,,,,,
+B-25877,Clothing,Skirt,Debit Card,Mumbai,24,8,2,,its not,Mumbai,No,24,Mumbai,,,,,,,,,
+B-25608,Furniture,Chairs,COD,Mumbai,476,0,3,,its not,Mumbai,No,476,Mumbai,,,,,,,,,
+B-25897,Clothing,Hankerchief,Debit Card,Gangtok,24,11,5,,its not,Gangtok,No,24,Gangtok,,,,,,,,,
+B-25881,Clothing,Hankerchief,COD,Mumbai,37,3,3,,its not,Mumbai,No,37,Mumbai,,,,,,,,,
+B-25905,Clothing,Stole,UPI,Indore,152,50,6,,its not,Indore,No,152,Indore,,,,,,,,,
+B-25818,Clothing,Leggings,UPI,Mumbai,32,11,2,,its not,Mumbai,No,32,Mumbai,,,,,,,,,
+B-25835,Clothing,Leggings,COD,Delhi,52,11,5,,its not,Delhi,No,52,Delhi,,,,,,,,,
+B-26081,Clothing,Hankerchief,Debit Card,Indore,24,11,3,,its not,Indore,No,24,Indore,,,,,,,,,
+B-25730,Furniture,Chairs,COD,Kolkata,473,42,4,,its not,Kolkata,No,473,Kolkata,,,,,,,,,
+B-25837,Clothing,Stole,COD,Mumbai,263,50,5,,its not,Mumbai,No,263,Mumbai,,,,,,,,,
+B-25893,Clothing,Kurti,COD,Bhopal,61,11,3,,its not,Bhopal,No,61,Bhopal,,,,,,,,,
+B-25689,Electronics,Electronic Games,COD,Ahmedabad,469,-459,3,,its not,Ahmedabad,No,469,Ahmedabad,,,,,,,,,
+B-26028,Electronics,Phones,COD,Pune,1272,547,2,,its not,Pune,1272,1272,Pune,,,,,,,,,
+B-26081,Electronics,Accessories,COD,Bangalore,169,0,3,,its not,Bangalore,No,169,Bangalore,,,,,,,,,
+B-25903,Clothing,Leggings,Debit Card,Thiruvananthapuram,25,11,3,,its not,Thiruvananthapuram,No,25,Thiruvananthapuram,,,,,,,,,
+B-25651,Clothing,Saree,COD,Bangalore,457,-41,4,,its not,Bangalore,No,457,Bangalore,,,,,,,,,
+B-25903,Electronics,Accessories,COD,Bangalore,455,77,8,,its not,Bangalore,No,455,Bangalore,,,,,,,,,
+B-26086,Clothing,Hankerchief,Debit Card,Patna,25,2,2,,its not,Patna,No,25,Patna,,,,,,,,,
+B-25654,Electronics,Printers,COD,Bhopal,450,-90,3,,its not,Bhopal,No,450,Bhopal,,,,,,,,,
+B-25720,Furniture,Chairs,COD,Kashmir,30,-35,1,,its not,Kashmir,No,30,Kashmir,,,,,,,,,
+B-26057,Furniture,Bookcases,Credit Card,Mumbai,659,-37,2,,its not,Mumbai,659,659,Mumbai,,,,,,,,,
+B-25798,Electronics,Printers,COD,Jaipur,448,148,2,,its not,Jaipur,No,448,Jaipur,,,,,,,,,
+B-25961,Electronics,Printers,COD,Indore,446,53,3,,its not,Indore,No,446,Indore,,,,,,,,,
+B-25701,Furniture,Chairs,UPI,Hyderabad,98,-45,2,,its not,Hyderabad,No,98,Hyderabad,,,,,,,,,
+B-26055,Clothing,Saree,COD,Goa,443,11,1,,its not,Goa,No,443,Goa,,,,,,,,,
+B-25653,Electronics,Phones,COD,Surat,427,-50,7,,its not,Surat,No,427,Surat,,,,,,,,,
+B-25670,Furniture,Bookcases,Credit Card,Mumbai,656,-36,2,,its not,Mumbai,656,656,Mumbai,,,,,,,,,
+B-26056,Clothing,Saree,COD,Mumbai,424,161,2,,its not,Mumbai,No,424,Mumbai,,,,,,,,,
+B-26061,Clothing,T-shirt,Debit Card,Kohima,27,8,2,,its not,Kohima,No,27,Kohima,,,,,,,,,
+B-25602,Electronics,Phones,COD,Mumbai,424,-272,5,,its not,Mumbai,No,424,Mumbai,,,,,,,,,
+B-26016,Clothing,Hankerchief,COD,Kohima,202,4,4,,its not,Kohima,No,202,Kohima,,,,,,,,,
+B-25873,Electronics,Phones,UPI,Indore,1275,357,2,,its not,Indore,1275,1275,Indore,,,,,,,,,
+B-25761,Electronics,Phones,COD,Hyderabad,418,70,7,,its not,Hyderabad,No,418,Hyderabad,,,,,,,,,
+B-25819,Electronics,Electronic Games,COD,Hyderabad,417,49,3,,its not,Hyderabad,No,417,Hyderabad,,,,,,,,,
+B-25853,Clothing,Stole,UPI,Kolkata,199,48,4,,its not,Kolkata,No,199,Kolkata,,,,,,,,,
+B-25662,Furniture,Furnishings,UPI,Mumbai,385,-77,11,,its not,Mumbai,No,385,Mumbai,,,,,,,,,
+B-25993,Electronics,Phones,COD,Ahmedabad,414,199,3,,its not,Ahmedabad,No,414,Ahmedabad,,,,,,,,,
+B-25703,Clothing,Saree,COD,Indore,97,-45,4,,its not,Indore,No,97,Indore,,,,,,,,,
+B-25848,Electronics,Electronic Games,Credit Card,Chandigarh,648,50,6,,its not,Chandigarh,648,648,Chandigarh,,,,,,,,,
+B-25678,Clothing,Shirt,Debit Card,Mumbai,27,-25,2,,its not,Mumbai,No,27,Mumbai,,,,,,,,,
+B-25925,Clothing,Stole,Debit Card,Bangalore,27,12,1,,its not,Bangalore,No,27,Bangalore,,,,,,,,,
+B-25977,Clothing,Stole,UPI,Delhi,27,1,1,,its not,Delhi,No,27,Delhi,,,,,,,,,
+B-25797,Furniture,Chairs,COD,Gangtok,413,-314,9,,its not,Gangtok,No,413,Gangtok,,,,,,,,,
+B-26067,Clothing,Hankerchief,COD,Kohima,53,2,4,,its not,Kohima,No,53,Kohima,,,,,,,,,
+B-25810,Clothing,Hankerchief,UPI,Mumbai,29,8,5,,its not,Mumbai,No,29,Mumbai,,,,,,,,,
+B-25648,Clothing,T-shirt,UPI,Bhopal,30,13,1,,its not,Bhopal,No,30,Bhopal,,,,,,,,,
+B-25933,Clothing,Saree,COD,Delhi,412,412,6,,its not,Delhi,No,412,Delhi,,,,,,,,,
+B-25942,Electronics,Printers,Credit Card,Bangalore,646,-23,2,,its not,Bangalore,646,646,Bangalore,,,,,,,,,
+B-25656,Clothing,Stole,UPI,Indore,30,-5,5,,its not,Indore,No,30,Indore,,,,,,,,,
+B-26067,Furniture,Bookcases,Credit Card,Chennai,618,27,4,,its not,Chennai,618,618,Chennai,,,,,,,,,
+B-25673,Clothing,Saree,UPI,Goa,143,-124,5,,its not,Goa,No,143,Goa,,,,,,,,,
+B-25797,Clothing,Hankerchief,UPI,Bangalore,31,1,2,,its not,Bangalore,No,31,Bangalore,,,,,,,,,
+B-26098,Clothing,Saree,COD,Patna,409,86,3,,its not,Patna,No,409,Patna,,,,,,,,,
+B-25656,Clothing,Saree,COD,Patna,406,126,2,,its not,Patna,No,406,Patna,,,,,,,,,
+B-25791,Clothing,Saree,Credit Card,Jaipur,565,66,7,,its not,Jaipur,565,565,Jaipur,,,,,,,,,
+B-26053,Clothing,Stole,COD,Lucknow,85,2,6,,its not,Lucknow,No,85,Lucknow,,,,,,,,,
+B-25983,Furniture,Bookcases,Credit Card,Mumbai,561,118,5,,its not,Mumbai,561,561,Mumbai,,,,,,,,,
+B-25743,Clothing,Trousers,COD,Kashmir,503,-56,2,,its not,Kashmir,503,503,Kashmir,,,,,,,,,
+B-25867,Clothing,Stole,UPI,Simla,31,14,3,,its not,Simla,No,31,Simla,,,,,,,,,
+B-25973,Clothing,Hankerchief,COD,Kohima,398,111,8,,its not,Kohima,No,398,Kohima,,,,,,,,,
+B-25895,Furniture,Bookcases,COD,Delhi,388,93,2,,its not,Delhi,No,388,Delhi,,,,,,,,,
+B-26003,Clothing,Saree,UPI,Kolkata,498,-116,4,,its not,Kolkata,No,498,Kolkata,,,,,,,,,
+B-25717,Clothing,Saree,Credit Card,Delhi,561,212,3,,its not,Delhi,561,561,Delhi,,,,,,,,,
+B-26064,Clothing,Hankerchief,COD,Bangalore,61,3,4,,its not,Bangalore,No,61,Bangalore,,,,,,,,,
+B-25630,Clothing,T-shirt,COD,Indore,34,-22,4,,its not,Indore,No,34,Indore,,,,,,,,,
+B-26050,Clothing,Shirt,UPI,Pune,32,6,3,,its not,Pune,No,32,Pune,,,,,,,,,
+B-25786,Furniture,Tables,UPI,Ahmedabad,623,-192,3,,its not,Ahmedabad,623,623,Ahmedabad,,,,,,,,,
+B-26035,Electronics,Phones,Credit Card,Mumbai,520,151,3,,its not,Mumbai,520,520,Mumbai,,,,,,,,,
+B-25693,Clothing,Saree,UPI,Lucknow,32,-16,6,,its not,Lucknow,No,32,Lucknow,,,,,,,,,
+B-25703,Clothing,Hankerchief,UPI,Amritsar,32,-5,5,,its not,Amritsar,No,32,Amritsar,,,,,,,,,
+B-25966,Electronics,Electronic Games,EMI,Amritsar,510,234,6,,its not,Amritsar,510,510,Amritsar,,,,,,,,,
+B-26060,Clothing,Saree,COD,Gangtok,382,68,3,,its not,Gangtok,No,382,Gangtok,,,,,,,,,
+B-25898,Clothing,Leggings,UPI,Delhi,33,13,3,,its not,Delhi,No,33,Delhi,,,,,,,,,
+B-25686,Clothing,Saree,COD,Indore,381,-13,2,,its not,Indore,No,381,Indore,,,,,,,,,
+B-26051,Electronics,Accessories,EMI,Mumbai,490,88,2,,its not,Mumbai,No,490,Mumbai,,,,,,,,,
+B-25854,Clothing,Saree,COD,Chandigarh,381,144,2,,its not,Chandigarh,No,381,Chandigarh,,,,,,,,,
+B-26050,Electronics,Phones,EMI,Indore,487,143,4,,its not,Indore,No,487,Indore,,,,,,,,,
+B-25961,Furniture,Bookcases,COD,Mumbai,366,84,3,,its not,Mumbai,No,366,Mumbai,,,,,,,,,
+B-25701,Clothing,Shirt,UPI,Goa,33,-29,3,,its not,Goa,No,33,Goa,,,,,,,,,
+B-25970,Electronics,Phones,COD,Thiruvananthapuram,365,107,3,,its not,Thiruvananthapuram,No,365,Thiruvananthapuram,,,,,,,,,
+B-25933,Clothing,Saree,UPI,Prayagraj,207,-100,2,,its not,Prayagraj,No,207,Prayagraj,,,,,,,,,
+B-26081,Furniture,Bookcases,COD,Bangalore,359,-338,5,,its not,Bangalore,No,359,Bangalore,,,,,,,,,
+B-25650,Electronics,Phones,COD,Indore,351,-47,8,,its not,Indore,No,351,Indore,,,,,,,,,
+B-25850,Clothing,Saree,EMI,Indore,485,199,4,,its not,Indore,No,485,Indore,,,,,,,,,
+B-25643,Clothing,Shirt,UPI,Kohima,37,-23,4,,its not,Kohima,No,37,Kohima,,,,,,,,,
+B-26100,Clothing,T-shirt,Debit Card,Gangtok,34,10,2,,its not,Gangtok,No,34,Gangtok,,,,,,,,,
+B-25964,Furniture,Chairs,COD,Indore,346,108,3,,its not,Indore,No,346,Indore,,,,,,,,,
+B-25676,Electronics,Electronic Games,COD,Kashmir,342,-103,4,,its not,Kashmir,No,342,Kashmir,,,,,,,,,
+B-25628,Furniture,Furnishings,Debit Card,Jaipur,35,-8,2,,its not,Jaipur,No,35,Jaipur,,,,,,,,,
+B-25891,Clothing,Stole,UPI,Jaipur,121,41,4,,its not,Jaipur,No,121,Jaipur,,,,,,,,,
+B-25903,Electronics,Phones,COD,Lucknow,336,57,2,,its not,Lucknow,No,336,Lucknow,,,,,,,,,
+B-25851,Furniture,Bookcases,COD,Chandigarh,336,71,3,,its not,Chandigarh,No,336,Chandigarh,,,,,,,,,
+B-26089,Clothing,Hankerchief,COD,Patna,27,4,1,,its not,Patna,No,27,Patna,,,,,,,,,
+B-25996,Electronics,Phones,COD,Amritsar,333,50,2,,its not,Amritsar,No,333,Amritsar,,,,,,,,,
+B-25881,Clothing,Leggings,Debit Card,Thiruvananthapuram,36,7,3,,its not,Thiruvananthapuram,No,36,Thiruvananthapuram,,,,,,,,,
+B-25621,Electronics,Phones,COD,Goa,333,-15,3,,its not,Goa,No,333,Goa,,,,,,,,,
+B-25727,Clothing,Trousers,COD,Chennai,327,114,4,,its not,Chennai,No,327,Chennai,,,,,,,,,
+B-25843,Clothing,Hankerchief,UPI,Ahmedabad,18,6,3,,its not,Ahmedabad,No,18,Ahmedabad,,,,,,,,,
+B-26050,Clothing,T-shirt,COD,Lucknow,325,32,7,,its not,Lucknow,No,325,Lucknow,,,,,,,,,
+B-25741,Electronics,Electronic Games,EMI,Indore,482,-6,7,,its not,Indore,No,482,Indore,,,,,,,,,
+B-25756,Electronics,Phones,EMI,Delhi,465,-33,4,,its not,Delhi,No,465,Delhi,,,,,,,,,
+B-25787,Clothing,Shirt,COD,Pune,40,-12,3,,its not,Pune,No,40,Pune,,,,,,,,,
+B-25603,Clothing,Stole,COD,Jaipur,107,36,6,,its not,Jaipur,No,107,Jaipur,,,,,,,,,
+B-25655,Furniture,Chairs,COD,Amritsar,312,-312,7,,its not,Amritsar,No,312,Amritsar,,,,,,,,,
+B-26096,Electronics,Phones,EMI,Jaipur,451,25,3,,its not,Jaipur,No,451,Jaipur,,,,,,,,,
+B-25962,Electronics,Electronic Games,COD,Chandigarh,312,62,1,,its not,Chandigarh,No,312,Chandigarh,,,,,,,,,
+B-26007,Furniture,Bookcases,COD,Thiruvananthapuram,311,72,2,,its not,Thiruvananthapuram,No,311,Thiruvananthapuram,,,,,,,,,
+B-26088,Clothing,Hankerchief,UPI,Indore,11,5,2,,its not,Indore,No,11,Indore,,,,,,,,,
+B-25673,Clothing,T-shirt,Debit Card,Indore,37,-5,3,,its not,Indore,No,37,Indore,,,,,,,,,
+B-25664,Electronics,Phones,EMI,Gangtok,444,-200,4,,its not,Gangtok,No,444,Gangtok,,,,,,,,,
+B-25642,Clothing,Shirt,Credit Card,Surat,434,26,11,,its not,Surat,No,434,Surat,,,,,,,,,
+B-25987,Clothing,Stole,COD,Delhi,299,0,6,,its not,Delhi,No,299,Delhi,,,,,,,,,
+B-25903,Clothing,Hankerchief,Debit Card,Kohima,37,17,3,,its not,Kohima,No,37,Kohima,,,,,,,,,
+B-25770,Furniture,Bookcases,COD,Simla,299,113,2,,its not,Simla,No,299,Simla,,,,,,,,,
+B-25840,Furniture,Bookcases,COD,Chandigarh,298,74,2,,its not,Chandigarh,No,298,Chandigarh,,,,,,,,,
+B-25846,Clothing,Leggings,UPI,Kolkata,94,7,7,,its not,Kolkata,No,94,Kolkata,,,,,,,,,
+B-25745,Clothing,Saree,COD,Hyderabad,296,225,11,,its not,Hyderabad,No,296,Hyderabad,,,,,,,,,
+B-26073,Clothing,Hankerchief,Debit Card,Indore,37,17,3,,its not,Indore,No,37,Indore,,,,,,,,,
+B-26030,Electronics,Printers,COD,Amritsar,291,93,2,,its not,Amritsar,No,291,Amritsar,,,,,,,,,
+B-25678,Electronics,Phones,COD,Pune,327,-39,1,,its not,Pune,No,327,Pune,,,,,,,,,
+B-26035,Clothing,Saree,COD,Indore,291,119,11,,its not,Indore,No,291,Indore,,,,,,,,,
+B-25896,Clothing,Kurti,COD,Simla,287,-66,6,,its not,Simla,No,287,Simla,,,,,,,,,
+B-25989,Electronics,Accessories,UPI,Jaipur,42,15,1,,its not,Jaipur,No,42,Jaipur,,,,,,,,,
+B-26016,Electronics,Electronic Games,Credit Card,Thiruvananthapuram,429,61,3,,its not,Thiruvananthapuram,No,429,Thiruvananthapuram,,,,,,,,,
+B-26009,Electronics,Printers,COD,Jaipur,285,128,2,,its not,Jaipur,No,285,Jaipur,,,,,,,,,
+B-25915,Electronics,Electronic Games,COD,Thiruvananthapuram,277,3,1,,its not,Thiruvananthapuram,No,277,Thiruvananthapuram,,,,,,,,,
+B-25845,Electronics,Phones,COD,Surat,274,-7,4,,its not,Surat,No,274,Surat,,,,,,,,,
+B-25645,Electronics,Phones,COD,Kolkata,273,-87,4,,its not,Kolkata,No,273,Kolkata,,,,,,,,,
+B-25803,Electronics,Electronic Games,COD,Kolkata,269,91,1,,its not,Kolkata,No,269,Kolkata,,,,,,,,,
+B-26030,Clothing,Skirt,COD,Hyderabad,11,5,1,,its not,Hyderabad,No,11,Hyderabad,,,,,,,,,
+B-25955,Clothing,Saree,Debit Card,Jaipur,39,2,2,,its not,Jaipur,No,39,Jaipur,,,,,,,,,
+B-26096,Clothing,Trousers,COD,Indore,264,-26,3,,its not,Indore,No,264,Indore,,,,,,,,,
+B-25635,Clothing,Hankerchief,Debit Card,Ahmedabad,40,16,3,,its not,Ahmedabad,No,40,Ahmedabad,,,,,,,,,
+B-26038,Clothing,T-shirt,Debit Card,Gangtok,41,19,2,,its not,Gangtok,No,41,Gangtok,,,,,,,,,
+B-25791,Clothing,Saree,UPI,Thiruvananthapuram,253,-63,2,,its not,Thiruvananthapuram,No,253,Thiruvananthapuram,,,,,,,,,
+B-26014,Furniture,Chairs,Credit Card,Delhi,406,97,7,,its not,Delhi,No,406,Delhi,,,,,,,,,
+B-25751,Clothing,Hankerchief,COD,,32,7,3,,its not,0,No,32,0,,,,,,,,,
+B-25962,Electronics,Printers,COD,Bhopal,260,68,2,,its not,Bhopal,No,260,Bhopal,,,,,,,,,
+B-26025,Clothing,Hankerchief,Debit Card,Mumbai,41,19,5,,its not,Mumbai,No,41,Mumbai,,,,,,,,,
+B-26048,Furniture,Chairs,Credit Card,Delhi,401,13,6,,its not,Delhi,No,401,Delhi,,,,,,,,,
+B-25635,Clothing,Saree,Credit Card,Lucknow,382,30,3,,its not,Lucknow,No,382,Lucknow,,,,,,,,,
+B-25981,Electronics,Phones,COD,Kolkata,867,251,5,,its not,Kolkata,867,867,Kolkata,,,,,,,,,
+B-25610,Clothing,Saree,Debit Card,Bangalore,43,0,3,,its not,Bangalore,No,43,Bangalore,,,,,,,,,
+B-25733,Clothing,Stole,Debit Card,Surat,43,-43,7,,its not,Surat,No,43,Surat,,,,,,,,,
+B-25977,Clothing,Stole,COD,Hyderabad,74,29,3,,its not,Hyderabad,No,74,Hyderabad,,,,,,,,,
+B-25655,Clothing,Hankerchief,Debit Card,Indore,44,-26,3,,its not,Indore,No,44,Indore,,,,,,,,,
+B-25612,Furniture,Chairs,COD,Patna,259,-55,2,,its not,Patna,No,259,Patna,,,,,,,,,
+B-25608,Clothing,Hankerchief,COD,Kohima,257,23,5,,its not,Kohima,No,257,Kohima,,,,,,,,,
+B-25752,Clothing,Stole,COD,Chandigarh,76,27,5,,its not,Chandigarh,No,76,Chandigarh,,,,,,,,,
+B-25700,Clothing,Stole,Debit Card,Ahmedabad,44,-32,3,,its not,Ahmedabad,No,44,Ahmedabad,,,,,,,,,
+B-25856,Clothing,Saree,COD,Indore,257,3,2,,its not,Indore,No,257,Indore,,,,,,,,,
+B-26026,Clothing,Hankerchief,COD,Udaipur,255,76,9,,its not,Udaipur,No,255,Udaipur,,,,,,,,,
+B-25861,Clothing,Hankerchief,Debit Card,Bhopal,44,14,3,,its not,Bhopal,No,44,Bhopal,,,,,,,,,
+B-25673,Clothing,Shirt,COD,Udaipur,45,-2,4,,its not,Udaipur,No,45,Udaipur,,,,,,,,,
+B-25681,Clothing,Saree,Debit Card,Goa,44,-3,1,,its not,Goa,No,44,Goa,,,,,,,,,
+B-26051,Clothing,Saree,Credit Card,Hyderabad,382,119,2,,its not,Hyderabad,No,382,Hyderabad,,,,,,,,,
+B-25951,Clothing,Trousers,COD,Mumbai,250,100,3,,its not,Mumbai,No,250,Mumbai,,,,,,,,,
+B-25799,Furniture,Chairs,COD,Chandigarh,45,-15,2,,its not,Chandigarh,No,45,Chandigarh,,,,,,,,,
+B-26053,Furniture,Bookcases,COD,Kolkata,246,61,2,,its not,Kolkata,No,246,Kolkata,,,,,,,,,
+B-26030,Clothing,Stole,COD,Chandigarh,50,25,5,,its not,Chandigarh,No,50,Chandigarh,,,,,,,,,
+B-26054,Clothing,Hankerchief,COD,Patna,246,98,5,,its not,Patna,No,246,Patna,,,,,,,,,
+B-25696,Clothing,Kurti,Debit Card,Mumbai,44,99,3,,its not,Mumbai,No,44,Mumbai,,,,,,,,,
+B-25660,Clothing,Saree,COD,Kolkata,245,-78,3,,its not,Kolkata,No,245,Kolkata,,,,,,,,,
+B-25858,Clothing,Saree,COD,Mumbai,245,30,2,,its not,Mumbai,No,245,Mumbai,,,,,,,,,
+B-26045,Clothing,Stole,Credit Card,Mumbai,,0,7,,its not,Mumbai,No,0,Mumbai,,,,,,,,,
+B-25850,Clothing,T-shirt,Debit Card,Kolkata,45,1,3,,its not,Kolkata,No,45,Kolkata,,,,,,,,,
+B-25781,Clothing,Stole,Debit Card,Udaipur,45,-28,2,,its not,Udaipur,No,45,Udaipur,,,,,,,,,
+B-25918,Furniture,Furnishings,COD,Simla,244,-122,5,,its not,Simla,No,244,Simla,,,,,,,,,
+B-25971,Furniture,Bookcases,COD,Pune,244,83,2,,its not,Pune,No,244,Pune,,,,,,,,,
+B-25870,Clothing,Kurti,UPI,Patna,10,4,1,,its not,Patna,No,10,Patna,,,,,,,,,
+B-25770,Furniture,Bookcases,Credit Card,Thiruvananthapuram,375,180,3,,its not,Thiruvananthapuram,No,375,Thiruvananthapuram,,,,,,,,,
+B-25757,Clothing,Skirt,Debit Card,Mumbai,46,14,5,,its not,Mumbai,No,46,Mumbai,,,,,,,,,
+B-25699,Clothing,Stole,UPI,Amritsar,49,-31,2,,its not,Amritsar,No,49,Amritsar,,,,,,,,,
+B-25776,Clothing,Kurti,Debit Card,Indore,47,-20,2,,its not,Indore,No,47,Indore,,,,,,,,,
+B-25893,Clothing,Stole,Credit Card,Jaipur,355,-114,7,,its not,Jaipur,No,355,Jaipur,,,,,,,,,
+B-25985,Clothing,Hankerchief,UPI,Surat,32,8,5,,its not,Surat,No,32,Surat,,,,,,,,,
+B-25681,Furniture,Chairs,COD,Surat,243,-14,2,,its not,Surat,No,243,Surat,,,,,,,,,
+B-26063,Electronics,Electronic Games,COD,Indore,241,-77,4,,its not,Indore,No,241,Indore,,,,,,,,,
+B-26032,Clothing,Saree,Debit Card,Goa,47,15,5,,its not,Goa,No,47,Goa,,,,,,,,,
+B-26001,Clothing,Skirt,Debit Card,Udaipur,50,-10,6,,its not,Udaipur,No,50,Udaipur,,,,,,,,,
+B-26056,Clothing,Hankerchief,COD,Mumbai,15,6,2,,its not,Mumbai,No,15,Mumbai,,,,,,,,,
+B-25850,Clothing,Stole,COD,Chennai,148,24,3,,its not,Chennai,No,148,Chennai,,,,,,,,,
+B-25767,Electronics,Electronic Games,UPI,Kashmir,299,-28,3,,its not,Kashmir,No,299,Kashmir,,,,,,,,,
+B-25693,Electronics,Phones,UPI,Lucknow,68,-30,1,,its not,Lucknow,No,68,Lucknow,,,,,,,,,
+B-25850,Clothing,Leggings,Debit Card,Indore,52,18,5,,its not,Indore,No,52,Indore,,,,,,,,,
+B-25796,Furniture,Chairs,COD,Udaipur,239,-162,5,,its not,Udaipur,No,239,Udaipur,,,,,,,,,
+B-26053,Clothing,Skirt,COD,Indore,27,6,3,,its not,Indore,No,27,Indore,,,,,,,,,
+B-25650,Clothing,Saree,COD,Delhi,238,20,2,,its not,Delhi,No,238,Delhi,,,,,,,,,
+B-25961,Clothing,Shirt,COD,Delhi,48,16,3,,its not,Delhi,No,48,Delhi,,,,,,,,,
+B-26023,Clothing,Stole,UPI,Indore,66,22,3,,its not,Indore,No,66,Indore,,,,,,,,,
+B-25809,Clothing,Hankerchief,Debit Card,Bhopal,53,24,1,,its not,Bhopal,No,53,Bhopal,,,,,,,,,
+B-25621,Electronics,Electronic Games,COD,Mumbai,233,-10,5,,its not,Mumbai,No,233,Mumbai,,,,,,,,,
+B-25854,Clothing,Saree,Debit Card,Mumbai,53,-2,3,,its not,Mumbai,No,53,Mumbai,,,,,,,,,
+B-26057,Clothing,T-shirt,Debit Card,Bhopal,54,8,4,,its not,Bhopal,No,54,Bhopal,,,,,,,,,
+B-25688,Clothing,Saree,Credit Card,Prayagraj,352,-345,5,,its not,Prayagraj,No,352,Prayagraj,,,,,,,,,
+B-25885,Clothing,Stole,Credit Card,Lucknow,349,0,7,,its not,Lucknow,No,349,Lucknow,,,,,,,,,
+B-25753,Clothing,Trousers,Credit Card,Lucknow,341,-85,6,,its not,Lucknow,No,341,Lucknow,,,,,,,,,
+B-25981,Clothing,Saree,Debit Card,Indore,54,12,3,,its not,Indore,No,54,Indore,,,,,,,,,
+B-26055,Clothing,Shirt,UPI,Ahmedabad,57,7,2,,its not,Ahmedabad,No,57,Ahmedabad,,,,,,,,,
+B-25714,Clothing,Shirt,Credit Card,Lucknow,340,20,7,,its not,Lucknow,No,340,Lucknow,,,,,,,,,
+B-26055,Clothing,Stole,COD,Indore,227,48,5,,its not,Indore,No,227,Indore,,,,,,,,,
+B-25989,Furniture,Bookcases,Credit Card,Chandigarh,330,81,1,,its not,Chandigarh,No,330,Chandigarh,,,,,,,,,
+B-25710,Furniture,Furnishings,UPI,Ahmedabad,216,-38,6,,its not,Ahmedabad,No,216,Ahmedabad,,,,,,,,,
+B-25773,Furniture,Chairs,COD,Chandigarh,224,-143,3,,its not,Chandigarh,No,224,Chandigarh,,,,,,,,,
+B-25661,Furniture,Chairs,Debit Card,Bangalore,55,-33,2,,its not,Bangalore,No,55,Bangalore,,,,,,,,,
+B-26021,Clothing,Stole,UPI,Pune,49,21,1,,its not,Pune,No,49,Pune,,,,,,,,,
+B-26057,Clothing,Trousers,COD,Kolkata,224,87,3,,its not,Kolkata,No,224,Kolkata,,,,,,,,,
+B-25858,Furniture,Bookcases,COD,Indore,223,27,2,,its not,Indore,No,223,Indore,,,,,,,,,
+B-25857,Electronics,Accessories,Credit Card,Kohima,324,39,8,,its not,Kohima,No,324,Kohima,,,,,,,,,
+B-25656,Clothing,Hankerchief,Debit Card,Pune,56,18,2,,its not,Pune,No,56,Pune,,,,,,,,,
+B-25999,Clothing,Shirt,COD,Indore,223,62,7,,its not,Indore,No,223,Indore,,,,,,,,,
+B-25856,Clothing,Skirt,COD,Thiruvananthapuram,10,2,2,,its not,Thiruvananthapuram,No,10,Thiruvananthapuram,,,,,,,,,
+B-25926,Clothing,Leggings,Debit Card,Surat,57,6,5,,its not,Surat,No,57,Surat,,,,,,,,,
+B-25728,Clothing,Saree,Credit Card,Kohima,322,-113,4,,its not,Kohima,No,322,Kohima,,,,,,,,,
+B-26076,Clothing,Saree,COD,Delhi,219,4,2,,its not,Delhi,No,219,Delhi,,,,,,,,,
+B-25913,Clothing,Stole,UPI,Delhi,103,21,7,,its not,Delhi,No,103,Delhi,,,,,,,,,
+B-25703,Clothing,Saree,COD,Kashmir,47,-27,4,,its not,Kashmir,No,47,Kashmir,,,,,,,,,
+B-25858,Clothing,Saree,COD,Mumbai,219,0,1,,its not,Mumbai,No,219,Mumbai,,,,,,,,,
+B-25727,Clothing,Leggings,Debit Card,Mumbai,57,-48,6,,its not,Mumbai,No,57,Mumbai,,,,,,,,,
+B-26020,Electronics,Accessories,Credit Card,Mumbai,319,102,6,,its not,Mumbai,No,319,Mumbai,,,,,,,,,
+B-26003,Furniture,Chairs,Credit Card,Kolkata,315,-8,3,,its not,Kolkata,No,315,Kolkata,,,,,,,,,
+B-25925,Electronics,Electronic Games,Credit Card,Mumbai,314,-41,3,,its not,Mumbai,No,314,Mumbai,,,,,,,,,
+B-26087,Electronics,Electronic Games,EMI,,311,40,1,,its not,0,No,311,0,,,,,,,,,
+B-25810,Electronics,Accessories,EMI,Mumbai,307,74,3,,its not,Mumbai,No,307,Mumbai,,,,,,,,,
+B-25858,Electronics,Accessories,EMI,Indore,294,109,7,,its not,Indore,No,294,Indore,,,,,,,,,
+B-25861,Electronics,Electronic Games,COD,Delhi,216,-83,3,,its not,Delhi,No,216,Delhi,,,,,,,,,
+B-25661,Furniture,Chairs,Debit Card,Gangtok,58,-42,2,,its not,Gangtok,No,58,Gangtok,,,,,,,,,
+B-25943,Clothing,Stole,UPI,Bhopal,48,20,4,,its not,Bhopal,No,48,Bhopal,,,,,,,,,
+B-25955,Clothing,T-shirt,UPI,Bhopal,54,14,3,,its not,Bhopal,No,54,Bhopal,,,,,,,,,
+B-26051,Clothing,Stole,COD,Indore,216,50,4,,its not,Indore,No,216,Indore,,,,,,,,,
+B-25999,Clothing,Saree,COD,Jaipur,215,-30,2,,its not,Jaipur,No,215,Jaipur,,,,,,,,,
+B-26083,Clothing,Leggings,COD,Chandigarh,43,8,3,,its not,Chandigarh,No,43,Chandigarh,,,,,,,,,
+B-25950,Clothing,Saree,COD,Simla,136,-33,5,,its not,Simla,No,136,Simla,,,,,,,,,
+B-25625,Clothing,Leggings,Debit Card,Chennai,59,-30,3,,its not,Chennai,No,59,Chennai,,,,,,,,,
+B-26055,Clothing,Shirt,COD,Mumbai,213,4,14,,its not,Mumbai,No,213,Mumbai,,,,,,,,,
+B-26023,Clothing,Stole,Debit Card,Ahmedabad,59,21,2,,its not,Ahmedabad,No,59,Ahmedabad,,,,,,,,,
+B-26010,Clothing,T-shirt,COD,Mumbai,55,3,3,,its not,Mumbai,No,55,Mumbai,,,,,,,,,
+B-25955,Clothing,T-shirt,EMI,Indore,294,62,9,,its not,Indore,No,294,Indore,,,,,,,,,
+B-25900,Electronics,Phones,COD,Indore,210,62,2,,its not,Indore,No,210,Indore,,,,,,,,,
+B-26089,Clothing,Kurti,Debit Card,Ahmedabad,59,24,6,,its not,Ahmedabad,No,59,Ahmedabad,,,,,,,,,
+B-25655,Clothing,Saree,COD,Indore,396,-31,9,,its not,Indore,No,396,Indore,,,,,,,,,
+B-25979,Furniture,Bookcases,EMI,Goa,284,45,2,,its not,Goa,No,284,Goa,,,,,,,,,
+B-26002,,Saree,EMI,Indore,276,52,5,,its not,Indore,No,276,Indore,,,,,,,,,
+B-25635,Clothing,Skirt,UPI,Kolkata,23,2,2,,its not,Kolkata,No,23,Kolkata,,,,,,,,,
+B-26084,Electronics,Electronic Games,COD,Kohima,209,-63,4,,its not,Kohima,No,209,Kohima,,,,,,,,,
+B-25998,Furniture,Furnishings,COD,Mumbai,50,-28,5,,its not,Mumbai,No,50,Mumbai,,,,,,,,,
+B-25872,Clothing,Shirt,COD,Surat,57,27,2,,its not,Surat,No,57,Surat,,,,,,,,,
+B-25795,Electronics,Phones,EMI,Simla,276,-21,2,,its not,Simla,No,276,Simla,,,,,,,,,
+B-25902,Furniture,Bookcases,UPI,Kashmir,268,6,2,,its not,Kashmir,No,268,Kashmir,,,,,,,,,
+B-25650,Clothing,Trousers,EMI,Chandigarh,269,111,3,,its not,Chandigarh,No,269,Chandigarh,,,,,,,,,
+B-25957,Clothing,Saree,COD,Udaipur,209,2,1,,its not,Udaipur,No,209,Udaipur,,,,,,,,,
+B-25793,Clothing,Hankerchief,Debit Card,Goa,60,-12,4,,its not,Goa,No,60,Goa,,,,,,,,,
+B-25654,Electronics,Electronic Games,EMI,Simla,269,-86,2,,its not,Simla,No,269,Simla,,,,,,,,,
+B-25750,Clothing,Saree,COD,Mumbai,208,-25,2,,its not,Mumbai,No,208,Mumbai,,,,,,,,,
+B-25835,Clothing,Leggings,UPI,Jaipur,27,2,2,,its not,Jaipur,No,27,Jaipur,,,,,,,,,
+B-25652,Clothing,Saree,COD,Indore,206,-206,3,,its not,Indore,No,206,Indore,,,,,,,,,
+B-26018,Clothing,Hankerchief,Debit Card,Patna,61,8,4,,its not,Patna,No,61,Patna,,,,,,,,,
+B-25750,Furniture,Chairs,COD,Mumbai,212,-24,2,,its not,Mumbai,No,212,Mumbai,,,,,,,,,
+B-25840,Clothing,Saree,EMI,Thiruvananthapuram,262,64,6,,its not,Thiruvananthapuram,No,262,Thiruvananthapuram,,,,,,,,,
+B-25756,Furniture,Bookcases,COD,Patna,204,276,3,,its not,Patna,No,204,Patna,,,,,,,,,
+B-25777,Clothing,T-shirt,UPI,Indore,59,-46,7,,its not,Indore,No,59,Indore,,,,,,,,,
+B-25750,Clothing,Saree,COD,Bhopal,199,-18,2,,its not,Bhopal,No,199,Bhopal,,,,,,,,,
+B-25823,Electronics,Accessories,UPI,Chandigarh,59,6,1,,its not,Chandigarh,No,59,Chandigarh,,,,,,,,,
+B-26096,Clothing,Leggings,UPI,Simla,45,9,3,,its not,Simla,No,45,Simla,,,,,,,,,
+B-25757,Clothing,Stole,COD,Kohima,211,19,8,,its not,Kohima,No,211,Kohima,,,,,,,,,
+B-25698,Electronics,Phones,Debit Card,Bangalore,65,-16,2,,its not,Bangalore,No,65,Bangalore,,,,,,,,,
+B-25710,Clothing,Skirt,UPI,Pune,25,0,4,,its not,Pune,No,25,Pune,,,,,,,,,
+B-25994,Electronics,Phones,COD,Indore,196,-7,5,,its not,Indore,No,196,Indore,,,,,,,,,
+B-25950,Clothing,Shirt,Credit Card,Mumbai,261,13,6,,its not,Mumbai,No,261,Mumbai,,,,,,,,,
+B-25653,Electronics,Phones,COD,Indore,195,-117,5,,its not,Indore,No,195,Indore,,,,,,,,,
+B-25785,Clothing,Saree,COD,Goa,192,-146,3,,its not,Goa,No,192,Goa,,,,,,,,,
+B-25863,Clothing,Stole,COD,Mumbai,189,87,7,,its not,Mumbai,No,189,Mumbai,,,,,,,,,
+B-25959,Clothing,Kurti,UPI,Chandigarh,32,2,2,,its not,Chandigarh,No,32,Chandigarh,,,,,,,,,
+B-25991,Clothing,Shirt,COD,Bhopal,188,13,7,,its not,Bhopal,No,188,Bhopal,,,,,,,,,
+B-25680,Clothing,Saree,COD,Indore,73,-25,3,,its not,Indore,No,73,Indore,,,,,,,,,
+B-25910,Clothing,Hankerchief,Credit Card,Bhopal,259,47,5,,its not,Bhopal,No,259,Bhopal,,,,,,,,,
+B-25737,Clothing,Trousers,COD,Goa,187,-15,3,,its not,Goa,No,187,Goa,,,,,,,,,
+B-25853,Clothing,Hankerchief,UPI,Chandigarh,26,11,2,,its not,Chandigarh,No,26,Chandigarh,,,,,,,,,
+B-26097,Furniture,Chairs,COD,Jaipur,185,-26,6,,its not,Jaipur,No,185,Jaipur,,,,,,,,,
+B-25875,Clothing,Saree,Credit Card,Hyderabad,248,8,2,,its not,Hyderabad,No,248,Hyderabad,,,,,,,,,
+B-26031,Clothing,Leggings,Debit Card,Bangalore,67,9,4,,its not,Bangalore,No,67,Bangalore,,,,,,,,,
+B-25773,Furniture,Chairs,Credit Card,Mumbai,248,-70,3,,its not,Mumbai,No,248,Mumbai,,,,,,,,,
+B-25840,Furniture,Bookcases,Credit Card,Kolkata,246,61,2,,its not,Kolkata,No,246,Kolkata,,,,,,,,,
+B-25908,Clothing,Kurti,COD,Mumbai,179,-25,5,,its not,Mumbai,No,179,Mumbai,,,,,,,,,
+B-26041,Furniture,Furnishings,COD,Udaipur,176,-28,5,,its not,Udaipur,No,176,Udaipur,,,,,,,,,
+B-26010,Furniture,Furnishings,COD,Pune,176,-13,5,,its not,Pune,No,176,Pune,,,,,,,,,
+B-25640,Clothing,Trousers,Debit Card,Ahmedabad,68,-62,2,,its not,Ahmedabad,No,68,Ahmedabad,,,,,,,,,
+B-25794,Electronics,Accessories,COD,Kashmir,176,37,6,,its not,Kashmir,No,176,Kashmir,,,,,,,,,
+B-25987,Clothing,Hankerchief,UPI,Patna,88,11,7,,its not,Patna,No,88,Patna,,,,,,,,,
+B-25615,Clothing,Hankerchief,Debit Card,Kolkata,68,20,5,,its not,Kolkata,No,68,Kolkata,,,,,,,,,
+B-25997,Electronics,Electronic Games,Credit Card,Gangtok,231,99,2,,its not,Gangtok,No,231,Gangtok,,,,,,,,,
+B-25981,Clothing,T-shirt,UPI,Chandigarh,62,8,2,,its not,Chandigarh,No,62,Chandigarh,,,,,,,,,
+B-25791,Clothing,676,COD,Simla,175,77,3,,its not,Simla,No,175,Simla,,,,,,,,,
+B-25986,Clothing,Leggings,Debit Card,Bangalore,71,4,5,,its not,Bangalore,No,71,Bangalore,,,,,,,,,
+B-25652,Electronics,Accessories,COD,Pune,174,-70,3,,its not,Pune,No,174,Pune,,,,,,,,,
+B-25952,Furniture,Chairs,COD,Kolkata,173,69,3,,its not,Kolkata,No,173,Kolkata,,,,,,,,,
+B-25898,Electronics,Electronic Games,COD,Bangalore,171,2,2,,its not,Bangalore,No,171,Bangalore,,,,,,,,,
+B-25785,Clothing,Saree,COD,Hyderabad,268,-25,3,,its not,Hyderabad,No,268,Hyderabad,,,,,,,,,
+B-25990,Clothing,Saree,Debit Card,Jaipur,71,32,3,,its not,Jaipur,No,71,Jaipur,,,,,,,,,
+B-26091,Clothing,Hankerchief,UPI,Delhi,29,10,4,,its not,Delhi,No,29,Delhi,,,,,,,,,
+B-25604,Clothing,T-shirt,UPI,Chennai,65,17,2,,its not,Chennai,No,65,Chennai,,,,,,,,,
+B-25754,Clothing,Kurti,Debit Card,Goa,72,-46,7,,its not,Goa,No,72,Goa,,,,,,,,,
+B-25724,Furniture,Bookcases,COD,Gangtok,168,-51,2,,its not,Gangtok,No,168,Gangtok,,,,,,,,,
+B-25757,Clothing,Stole,COD,Mumbai,165,30,3,,its not,Mumbai,No,165,Mumbai,,,,,,,,,
+B-25767,Electronics,Accessories,Debit Card,Simla,74,-59,2,,its not,Simla,No,74,Simla,,,,,,,,,
+B-25886,Clothing,Stole,UPI,Jaipur,89,17,2,,its not,Jaipur,No,89,Jaipur,,,,,,,,,
